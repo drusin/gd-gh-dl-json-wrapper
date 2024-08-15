@@ -1,40 +1,43 @@
-# gd-dl-json-wrapper
-A small node script that crowls through the [Godot download repository](https://downloads.tuxfamily.org/godotengine/) and generates a JSON file for every version containing name, download url and other metadata, plus a `main.json` as a dictionairy for all available versions.
+# gd-gh-dl-json-wrapper
+I find the Github releases API quite lacking - there is not possibility of filtering or reducing output, forcing you to wade through megabytes of JSON data if you are looking for a specific Godot release.
+This project is a small node script that crawls through the [Godot builds repository](https://github.com/godotengine/godot-builds/releases) and generates a JSON file for every version with a slightly trimmed array of download artifacts. Additionally a `main.json` is created as a dictionary for all available versions.
 
 Structure of the `main.json`:
 ```JSON
 {
   //(...)
-  "4.0.1": "https://drusin.github.io/gd-dl-json-wrapper/json/4.0.1.json",
-  "4.0.1-mono": "https://drusin.github.io/gd-dl-json-wrapper/json/4.0.1-mono.json",
-  "4.0.1-rc1": "https://drusin.github.io/gd-dl-json-wrapper/json/4.0.1-rc1.json",
+  "4.2.2-rc3": "https://drusin.github.io/gd-gh-dl-json-wrapper/json/4.2.2-rc3.json",
+  "4.2.2-stable": "https://drusin.github.io/gd-gh-dl-json-wrapper/json/4.2.2-stable.json",
+  "4.3-beta1": "https://drusin.github.io/gd-gh-dl-json-wrapper/json/4.3-beta1.json",
   //(...)
 }
 ```
 
-Structure of a version file:
+Structure of a version file - basically an array of Github asset entries with the _uploader_ field removed to half the size of the json:
 ```JSON
 [
   //(...)
   {
-    "lastModified": "2023-Jul-06 09:46:06",
-    "name": "Godot_v4.1-stable_win64.exe.zip",
-    "size": "51.6M",
-    "type": "application/zip"
-    "url": "https://downloads.tuxfamily.org/godotengine/4.1/Godot_v4.1-stable_win64.exe.zip",
+    "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/162583011",
+    "id": 162583011,
+    "node_id": "RA_kwDOKREZmc4JsNHj",
+    "name": "Godot_v4.2.2-stable_win64.exe.zip",
+    "label": "",
+    "content_type": "application/zip",
+    "state": "uploaded",
+    "size": 48710790,
+    "download_count": 8225,
+    "created_at": "2024-04-17T07:44:46Z",
+    "updated_at": "2024-04-17T07:44:52Z",
+    "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2.2-stable/Godot_v4.2.2-stable_win64.exe.zip"
   },
   //(...)
 ]
 ```
 
-The version names are created by naively putting together the names of the "subfolders" which are traversed, so you end up with things like `4.0-pre-alpha-4.0-dev.20210820` but that's good enough for me right now.
-
 ## Where to find the generated files
-The generated json files are hosted on github.io: https://drusin.github.io/gd-dl-json-wrapper/json/main.json  
+The generated json files are hosted on github.io: https://drusin.github.io/gd-gh-dl-json-wrapper/json/main.json  
 They are regenerated twice per day via Github actions.
-
-## Legacy file
-For compatibility reasons, the previously generated "flat" json file is still hosted on https://drusin.github.io/gd-dl-json-wrapper/json/output.json for now. This file is __deprecated__ and is not being regenerated/updated anymore. The readme describing its format can be found here: https://github.com/drusin/gd-dl-json-wrapper/blob/1e66ec8e5a610bab7bcefffb83b8e10b7b5bbbdd/README.md
 
 ## Running locally
 Make sure you have Node 18 or later installed, then:

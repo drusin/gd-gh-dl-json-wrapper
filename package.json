@@ -1,5 +1,5 @@
 {
-  "name": "gd-dl-json-wrapper",
+  "name": "gd-gh-dl-json-wrapper",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drusin/gd-dl-json-wrapper.git"
+    "url": "git+https://github.com/drusin/gd-gh-dl-json-wrapper.git"
   },
   "author": "drusin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drusin/gd-dl-json-wrapper/issues"
+    "url": "https://github.com/drusin/gd-gh-dl-json-wrapper/issues"
   },
-  "homepage": "https://github.com/drusin/gd-dl-json-wrapper#readme",
+  "homepage": "https://github.com/drusin/gd-gh-dl-json-wrapper#readme",
   "devDependencies": {
     "@types/node": "^22.3.0"
   },

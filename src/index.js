@@ -1,4 +1,5 @@
 import fetch from 'node-fetch';
+import { existsSync, mkdirSync, writeFile } from 'fs';
 
 const LINK_HEADER = 'link';
 const NEXT_LINK = 'rel="next"';
@@ -11,17 +12,38 @@ const getNextLink = (headers) => {
         .pop();
 }
 
-let url = 'https://api.github.com/repos/godotengine/godot-builds/releases?per_page=100';
-
-while (url) {
-    console.log(url);
-    const res = await fetch(url);
-    // await res.json();
-    url = getNextLink(res.headers);
+const getAllReleases = async () => {
+    let url = 'https://api.github.com/repos/godotengine/godot-builds/releases?per_page=100';
+    let releases = [];
+    while (url) {
+        const res = await fetch(url);
+        const json = await res.json();
+        releases = releases.concat(json);
+        url = getNextLink(res.headers);
+    }
+    return releases;
 }
 
-// const res = await fetch('https://api.github.com/repos/godotengine/godot-builds/releases?per_page=1');
-// const json = await res.json();
-// const header = res.headers;
-// console.log(header);
-// console.log(json);
+const releases = await getAllReleases();
+const writeFilePromises = [];
+if(!existsSync('docs/json')) {
+    mkdirSync('docs/json');
+}
+
+const mainJson = {};
+releases.map(release => release.tag_name)
+            .filter(name => !!name)
+            .sort()
+            .forEach(name => mainJson[name] = `https://drusin.github.io/gd-gh-dl-json-wrapper/json/${name}.json` );
+writeFilePromises.push(writeFile('docs/json/main.json', JSON.stringify(mainJson, undefined, 2), console.error));
+
+for (const release of releases) {
+    const name = release.tag_name;
+    const assets = release.assets.map(asset => {
+        const { uploader: _, ...rest } = asset;
+        return rest;
+    });
+    writeFilePromises.push(writeFile(`docs/json/${name}.json`, JSON.stringify(assets, undefined, 2), console.error));
+}
+
+await Promise.all(writeFilePromises);
