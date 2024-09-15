@@ -36,7 +36,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 74413257,
-    "download_count": 4,
+    "download_count": 5,
     "created_at": "2023-09-19T15:29:42Z",
     "updated_at": "2023-09-19T15:29:48Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/godot-lib.4.0.2.rc1.template_release.aar"
@@ -50,7 +50,7 @@
     "content_type": "application/vnd.android.package-archive",
     "state": "uploaded",
     "size": 200342606,
-    "download_count": 75,
+    "download_count": 76,
     "created_at": "2023-09-19T15:27:31Z",
     "updated_at": "2023-09-19T15:27:43Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_android_editor.apk"
@@ -64,7 +64,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 793579060,
-    "download_count": 23,
+    "download_count": 24,
     "created_at": "2023-09-19T15:27:44Z",
     "updated_at": "2023-09-19T15:28:54Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_export_templates.tpz"
@@ -78,7 +78,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 45258006,
-    "download_count": 67,
+    "download_count": 68,
     "created_at": "2023-09-19T15:28:55Z",
     "updated_at": "2023-09-19T15:28:59Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_linux.x86_32.zip"
@@ -92,7 +92,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 52309447,
-    "download_count": 75,
+    "download_count": 76,
     "created_at": "2023-09-19T15:29:00Z",
     "updated_at": "2023-09-19T15:29:03Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_linux.x86_64.zip"
@@ -106,7 +106,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 100554707,
-    "download_count": 70,
+    "download_count": 71,
     "created_at": "2023-09-19T15:29:05Z",
     "updated_at": "2023-09-19T15:29:11Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_macos.universal.zip"
@@ -120,7 +120,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 304835017,
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2023-09-19T15:29:49Z",
     "updated_at": "2023-09-19T15:30:16Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_mono_export_templates.tpz"
@@ -134,7 +134,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 52912530,
-    "download_count": 67,
+    "download_count": 68,
     "created_at": "2023-09-19T15:30:17Z",
     "updated_at": "2023-09-19T15:30:22Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_mono_linux_x86_32.zip"
@@ -148,7 +148,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 59971816,
-    "download_count": 69,
+    "download_count": 70,
     "created_at": "2023-09-19T15:30:23Z",
     "updated_at": "2023-09-19T15:30:27Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_mono_linux_x86_64.zip"
@@ -162,7 +162,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 108496706,
-    "download_count": 69,
+    "download_count": 70,
     "created_at": "2023-09-19T15:30:28Z",
     "updated_at": "2023-09-19T15:30:37Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_mono_macos.universal.zip"
@@ -176,7 +176,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 55106177,
-    "download_count": 67,
+    "download_count": 68,
     "created_at": "2023-09-19T15:30:38Z",
     "updated_at": "2023-09-19T15:30:42Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_mono_win32.zip"
@@ -204,7 +204,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 24457566,
-    "download_count": 67,
+    "download_count": 68,
     "created_at": "2023-09-19T15:29:12Z",
     "updated_at": "2023-09-19T15:29:15Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_web_editor.zip"
@@ -218,7 +218,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 47331276,
-    "download_count": 68,
+    "download_count": 69,
     "created_at": "2023-09-19T15:29:17Z",
     "updated_at": "2023-09-19T15:29:30Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_win32.exe.zip"
@@ -232,7 +232,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 51995340,
-    "download_count": 91,
+    "download_count": 92,
     "created_at": "2023-09-19T15:29:31Z",
     "updated_at": "2023-09-19T15:29:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0.2-rc1/Godot_v4.0.2-rc1_win64.exe.zip"
