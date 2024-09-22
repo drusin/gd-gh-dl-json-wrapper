@@ -8,7 +8,7 @@
     "content_type": "application/vnd.android.package-archive",
     "state": "uploaded",
     "size": 90146681,
-    "download_count": 83,
+    "download_count": 84,
     "created_at": "2023-09-19T17:06:20Z",
     "updated_at": "2023-09-19T17:06:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/Godot_v4.0-alpha6_android_editor.apk"
@@ -22,7 +22,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 685692180,
-    "download_count": 4,
+    "download_count": 5,
     "created_at": "2023-09-19T17:06:26Z",
     "updated_at": "2023-09-19T17:07:08Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/Godot_v4.0-alpha6_export_templates.tpz"
@@ -36,7 +36,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 41931296,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T17:07:10Z",
     "updated_at": "2023-09-19T17:07:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/Godot_v4.0-alpha6_linux.32.zip"
@@ -50,7 +50,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 48979534,
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2023-09-19T17:07:14Z",
     "updated_at": "2023-09-19T17:07:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/Godot_v4.0-alpha6_linux.64.zip"
@@ -64,7 +64,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 98958641,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T17:07:18Z",
     "updated_at": "2023-09-19T17:07:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/Godot_v4.0-alpha6_osx.universal.zip"
@@ -78,7 +78,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 43531789,
-    "download_count": 70,
+    "download_count": 71,
     "created_at": "2023-09-19T17:07:25Z",
     "updated_at": "2023-09-19T17:07:30Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/Godot_v4.0-alpha6_win32.exe.zip"
@@ -92,7 +92,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 48831638,
-    "download_count": 91,
+    "download_count": 92,
     "created_at": "2023-09-19T17:07:31Z",
     "updated_at": "2023-09-19T17:07:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/Godot_v4.0-alpha6_win64.exe.zip"
@@ -106,7 +106,7 @@
     "content_type": "application/x-xz",
     "state": "uploaded",
     "size": 29839524,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T17:07:35Z",
     "updated_at": "2023-09-19T17:07:48Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/godot-4.0-alpha6.tar.xz"
@@ -120,7 +120,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 90,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T17:07:49Z",
     "updated_at": "2023-09-19T17:07:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/godot-4.0-alpha6.tar.xz.sha256"
@@ -134,7 +134,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 65294337,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T17:07:51Z",
     "updated_at": "2023-09-19T17:07:55Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/godot-lib.4.0.alpha6.release.aar"
@@ -148,7 +148,7 @@
     "content_type": "text/plain; charset=utf-8",
     "state": "uploaded",
     "size": 573,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T17:07:56Z",
     "updated_at": "2023-09-19T17:07:56Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-alpha6/README.txt"

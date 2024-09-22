@@ -8,7 +8,7 @@
     "content_type": "text/plain; charset=utf-8",
     "state": "uploaded",
     "size": 1933,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T13:09:48Z",
     "updated_at": "2023-09-19T13:09:49Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_changelog_authors.txt"
@@ -22,7 +22,7 @@
     "content_type": "text/plain; charset=utf-8",
     "state": "uploaded",
     "size": 2330,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T13:09:50Z",
     "updated_at": "2023-09-19T13:09:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_changelog_chrono.txt"
@@ -36,7 +36,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 515533976,
-    "download_count": 222,
+    "download_count": 223,
     "created_at": "2023-09-19T13:09:51Z",
     "updated_at": "2023-09-19T13:10:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_export_templates.tpz"
@@ -50,7 +50,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 34275903,
-    "download_count": 95,
+    "download_count": 96,
     "created_at": "2023-09-19T13:10:26Z",
     "updated_at": "2023-09-19T13:10:28Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_linux_headless.64.zip"
@@ -64,7 +64,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 12596735,
-    "download_count": 69,
+    "download_count": 70,
     "created_at": "2023-09-19T13:10:29Z",
     "updated_at": "2023-09-19T13:10:31Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_linux_server.64.zip"
@@ -78,7 +78,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 66924751,
-    "download_count": 124,
+    "download_count": 125,
     "created_at": "2023-09-19T13:10:32Z",
     "updated_at": "2023-09-19T13:10:36Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_osx.universal.zip"
@@ -92,7 +92,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 14974713,
-    "download_count": 87,
+    "download_count": 88,
     "created_at": "2023-09-19T13:10:38Z",
     "updated_at": "2023-09-19T13:10:39Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_web_editor.zip"
@@ -106,7 +106,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 29942950,
-    "download_count": 107,
+    "download_count": 110,
     "created_at": "2023-09-19T13:10:40Z",
     "updated_at": "2023-09-19T13:10:42Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_win32.exe.zip"
@@ -120,7 +120,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 35468240,
-    "download_count": 759,
+    "download_count": 760,
     "created_at": "2023-09-19T13:10:43Z",
     "updated_at": "2023-09-19T13:10:46Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_win64.exe.zip"
@@ -134,7 +134,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 30831650,
-    "download_count": 69,
+    "download_count": 70,
     "created_at": "2023-09-19T13:10:47Z",
     "updated_at": "2023-09-19T13:10:54Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_x11.32.zip"
@@ -148,7 +148,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 36744436,
-    "download_count": 263,
+    "download_count": 264,
     "created_at": "2023-09-19T13:10:55Z",
     "updated_at": "2023-09-19T13:10:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_x11.64.zip"
@@ -162,7 +162,7 @@
     "content_type": "application/x-xz",
     "state": "uploaded",
     "size": 20619728,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T13:10:59Z",
     "updated_at": "2023-09-19T13:11:00Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/godot-3.3.2-stable.tar.xz"
@@ -176,7 +176,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 92,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T13:11:01Z",
     "updated_at": "2023-09-19T13:11:01Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/godot-3.3.2-stable.tar.xz.sha256"
@@ -190,7 +190,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 39539217,
-    "download_count": 6,
+    "download_count": 7,
     "created_at": "2023-09-19T13:11:03Z",
     "updated_at": "2023-09-19T13:11:06Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/godot-lib.3.3.2.stable.release.aar"
@@ -204,7 +204,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 594246879,
-    "download_count": 12,
+    "download_count": 13,
     "created_at": "2023-09-19T13:11:09Z",
     "updated_at": "2023-09-19T13:11:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_mono_export_templates.tpz"
@@ -218,7 +218,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 73335252,
-    "download_count": 68,
+    "download_count": 69,
     "created_at": "2023-09-19T13:11:51Z",
     "updated_at": "2023-09-19T13:11:55Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_mono_linux_headless_64.zip"
@@ -232,7 +232,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 21222349,
-    "download_count": 68,
+    "download_count": 69,
     "created_at": "2023-09-19T13:11:57Z",
     "updated_at": "2023-09-19T13:11:58Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_mono_linux_server_64.zip"
@@ -246,7 +246,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 72156093,
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2023-09-19T13:11:59Z",
     "updated_at": "2023-09-19T13:12:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_mono_osx.64.zip"
@@ -260,7 +260,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 56773365,
-    "download_count": 77,
+    "download_count": 78,
     "created_at": "2023-09-19T13:12:05Z",
     "updated_at": "2023-09-19T13:12:10Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_mono_win32.zip"
@@ -274,7 +274,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 67924315,
-    "download_count": 141,
+    "download_count": 142,
     "created_at": "2023-09-19T13:12:11Z",
     "updated_at": "2023-09-19T13:12:16Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_mono_win64.zip"
@@ -288,7 +288,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 69673101,
-    "download_count": 67,
+    "download_count": 68,
     "created_at": "2023-09-19T13:12:17Z",
     "updated_at": "2023-09-19T13:12:22Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_mono_x11_32.zip"
@@ -302,7 +302,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 76105995,
-    "download_count": 82,
+    "download_count": 83,
     "created_at": "2023-09-19T13:12:23Z",
     "updated_at": "2023-09-19T13:12:29Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/Godot_v3.3.2-stable_mono_x11_64.zip"
@@ -316,7 +316,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 52330934,
-    "download_count": 4,
+    "download_count": 5,
     "created_at": "2023-09-19T13:12:30Z",
     "updated_at": "2023-09-19T13:12:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3.2-stable/godot-lib.3.3.2.stable.mono.release.aar"

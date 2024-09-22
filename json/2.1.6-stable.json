@@ -8,7 +8,7 @@
     "content_type": "application/x-xz",
     "state": "uploaded",
     "size": 73031680,
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2023-09-18T18:47:39Z",
     "updated_at": "2023-09-18T18:47:44Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/2.1.6-stable/godot-2.1.6-stable.tar.xz"
@@ -22,7 +22,7 @@
     "content_type": "text/plain; charset=utf-8",
     "state": "uploaded",
     "size": 2141,
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2023-09-18T18:47:08Z",
     "updated_at": "2023-09-18T18:47:08Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/2.1.6-stable/Godot_v2.1.6-stable_changelog.txt"
@@ -36,7 +36,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 245334792,
-    "download_count": 314,
+    "download_count": 315,
     "created_at": "2023-09-18T18:47:09Z",
     "updated_at": "2023-09-18T18:47:22Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/2.1.6-stable/Godot_v2.1.6-stable_export_templates.tpz"
@@ -50,7 +50,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 16884729,
-    "download_count": 84,
+    "download_count": 85,
     "created_at": "2023-09-18T18:47:23Z",
     "updated_at": "2023-09-18T18:47:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/2.1.6-stable/Godot_v2.1.6-stable_linux_server.64.zip"
@@ -64,7 +64,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 38488034,
-    "download_count": 188,
+    "download_count": 189,
     "created_at": "2023-09-18T18:47:26Z",
     "updated_at": "2023-09-18T18:47:29Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/2.1.6-stable/Godot_v2.1.6-stable_osx.fat.zip"
@@ -78,7 +78,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 11857168,
-    "download_count": 294,
+    "download_count": 296,
     "created_at": "2023-09-18T18:47:30Z",
     "updated_at": "2023-09-18T18:47:31Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/2.1.6-stable/Godot_v2.1.6-stable_win32.exe.zip"
@@ -92,7 +92,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 13518840,
-    "download_count": 1465,
+    "download_count": 1473,
     "created_at": "2023-09-18T18:47:32Z",
     "updated_at": "2023-09-18T18:47:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/2.1.6-stable/Godot_v2.1.6-stable_win64.exe.zip"
@@ -106,7 +106,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 17413468,
-    "download_count": 100,
+    "download_count": 101,
     "created_at": "2023-09-18T18:47:34Z",
     "updated_at": "2023-09-18T18:47:36Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/2.1.6-stable/Godot_v2.1.6-stable_x11.32.zip"
@@ -120,7 +120,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 17646255,
-    "download_count": 416,
+    "download_count": 417,
     "created_at": "2023-09-18T18:47:37Z",
     "updated_at": "2023-09-18T18:47:38Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/2.1.6-stable/Godot_v2.1.6-stable_x11.64.zip"
