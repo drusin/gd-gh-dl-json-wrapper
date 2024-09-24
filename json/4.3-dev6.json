@@ -78,7 +78,7 @@
     "content_type": "application/vnd.android.package-archive",
     "state": "uploaded",
     "size": 189372688,
-    "download_count": 966,
+    "download_count": 968,
     "created_at": "2024-05-01T07:56:36Z",
     "updated_at": "2024-05-01T07:57:00Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev6/Godot_v4.3-dev6_android_editor.apk"
@@ -92,7 +92,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 984664129,
-    "download_count": 2718,
+    "download_count": 2719,
     "created_at": "2024-05-01T07:57:00Z",
     "updated_at": "2024-05-01T07:59:08Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev6/Godot_v4.3-dev6_export_templates.tpz"
@@ -148,7 +148,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 47938118,
-    "download_count": 2147,
+    "download_count": 2148,
     "created_at": "2024-05-01T07:59:30Z",
     "updated_at": "2024-05-01T07:59:36Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev6/Godot_v4.3-dev6_linux.x86_64.zip"
@@ -162,7 +162,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 97842395,
-    "download_count": 1039,
+    "download_count": 1040,
     "created_at": "2024-05-01T07:59:37Z",
     "updated_at": "2024-05-01T07:59:49Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev6/Godot_v4.3-dev6_macos.universal.zip"
@@ -288,7 +288,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 29136013,
-    "download_count": 380,
+    "download_count": 381,
     "created_at": "2024-05-01T07:59:50Z",
     "updated_at": "2024-05-01T08:00:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev6/Godot_v4.3-dev6_web_editor.zip"
@@ -316,7 +316,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 53194098,
-    "download_count": 7322,
+    "download_count": 7323,
     "created_at": "2024-05-01T08:00:12Z",
     "updated_at": "2024-05-01T08:00:19Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev6/Godot_v4.3-dev6_win64.exe.zip"
