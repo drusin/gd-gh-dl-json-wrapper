@@ -148,7 +148,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 49346069,
-    "download_count": 1297,
+    "download_count": 1298,
     "created_at": "2024-08-01T15:52:21Z",
     "updated_at": "2024-08-01T15:52:28Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc2/Godot_v4.3-rc2_linux.x86_64.zip"
@@ -162,7 +162,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 102923104,
-    "download_count": 730,
+    "download_count": 734,
     "created_at": "2024-08-01T15:52:28Z",
     "updated_at": "2024-08-01T15:52:41Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc2/Godot_v4.3-rc2_macos.universal.zip"
@@ -358,7 +358,7 @@
     "content_type": "text/plain; charset=utf-8",
     "state": "uploaded",
     "size": 4097,
-    "download_count": 5,
+    "download_count": 12,
     "created_at": "2024-08-01T15:57:03Z",
     "updated_at": "2024-08-01T15:57:03Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc2/SHA512-SUMS.txt"
