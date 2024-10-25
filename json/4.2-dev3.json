@@ -64,7 +64,7 @@
     "content_type": "application/vnd.android.package-archive",
     "state": "uploaded",
     "size": 210079640,
-    "download_count": 95,
+    "download_count": 96,
     "created_at": "2023-09-18T17:01:58Z",
     "updated_at": "2023-09-18T17:02:10Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-dev3/Godot_v4.2-dev3_android_editor.apk"
@@ -78,7 +78,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 824445118,
-    "download_count": 40,
+    "download_count": 42,
     "created_at": "2023-09-18T17:02:11Z",
     "updated_at": "2023-09-18T17:03:00Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-dev3/Godot_v4.2-dev3_export_templates.tpz"
@@ -204,7 +204,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 64209137,
-    "download_count": 107,
+    "download_count": 108,
     "created_at": "2023-09-18T17:10:04Z",
     "updated_at": "2023-09-18T17:10:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-dev3/Godot_v4.2-dev3_mono_win64.zip"
@@ -218,7 +218,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 26141222,
-    "download_count": 74,
+    "download_count": 75,
     "created_at": "2023-09-18T17:03:19Z",
     "updated_at": "2023-09-18T17:03:32Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-dev3/Godot_v4.2-dev3_web_editor.zip"
@@ -246,7 +246,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 54455643,
-    "download_count": 144,
+    "download_count": 195,
     "created_at": "2023-09-18T17:03:38Z",
     "updated_at": "2023-09-18T17:03:42Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-dev3/Godot_v4.2-dev3_win64.exe.zip"
