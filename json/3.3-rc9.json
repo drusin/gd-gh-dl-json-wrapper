@@ -78,7 +78,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 66290566,
-    "download_count": 73,
+    "download_count": 79,
     "created_at": "2023-09-19T21:25:44Z",
     "updated_at": "2023-09-19T21:25:48Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3-rc9/Godot_v3.3-rc9_osx.universal.zip"
@@ -120,7 +120,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 35380546,
-    "download_count": 96,
+    "download_count": 100,
     "created_at": "2023-09-19T21:25:56Z",
     "updated_at": "2023-09-19T21:25:58Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3-rc9/Godot_v3.3-rc9_win64.exe.zip"
@@ -148,7 +148,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 36642453,
-    "download_count": 71,
+    "download_count": 78,
     "created_at": "2023-09-19T21:26:03Z",
     "updated_at": "2023-09-19T21:26:06Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3-rc9/Godot_v3.3-rc9_x11.64.zip"
@@ -246,7 +246,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 72070876,
-    "download_count": 1,
+    "download_count": 6,
     "created_at": "2023-09-19T21:26:58Z",
     "updated_at": "2023-09-19T21:27:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3-rc9/Godot_v3.3-rc9_mono_osx.64.zip"
@@ -274,7 +274,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 67793987,
-    "download_count": 73,
+    "download_count": 76,
     "created_at": "2023-09-19T21:27:10Z",
     "updated_at": "2023-09-19T21:27:15Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3-rc9/Godot_v3.3-rc9_mono_win64.zip"
@@ -302,7 +302,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 76007472,
-    "download_count": 68,
+    "download_count": 71,
     "created_at": "2023-09-19T21:27:22Z",
     "updated_at": "2023-09-19T21:27:26Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.3-rc9/Godot_v3.3-rc9_mono_x11_64.zip"
