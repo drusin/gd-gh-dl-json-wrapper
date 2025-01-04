@@ -36,7 +36,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 90913495,
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2024-08-08T14:20:27Z",
     "updated_at": "2024-08-08T14:20:39Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc3/godot-lib.4.3.rc3.mono.template_release.aar"
@@ -316,7 +316,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 57879322,
-    "download_count": 60,
+    "download_count": 61,
     "created_at": "2024-08-08T14:20:03Z",
     "updated_at": "2024-08-08T14:20:10Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc3/Godot_v4.3-rc3_win32.exe.zip"
@@ -358,7 +358,7 @@
     "content_type": "text/plain; charset=utf-8",
     "state": "uploaded",
     "size": 4097,
-    "download_count": 35,
+    "download_count": 36,
     "created_at": "2024-08-08T14:24:29Z",
     "updated_at": "2024-08-08T14:24:29Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc3/SHA512-SUMS.txt"
