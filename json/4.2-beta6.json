@@ -8,7 +8,7 @@
     "content_type": "application/x-xz",
     "state": "uploaded",
     "size": 26559960,
-    "download_count": 12,
+    "download_count": 13,
     "created_at": "2023-11-13T10:53:17Z",
     "updated_at": "2023-11-13T10:53:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-beta6/godot-4.2-beta6.tar.xz"
@@ -78,7 +78,7 @@
     "content_type": "application/vnd.android.package-archive",
     "state": "uploaded",
     "size": 177061651,
-    "download_count": 301,
+    "download_count": 302,
     "created_at": "2023-11-13T10:54:00Z",
     "updated_at": "2023-11-13T10:54:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-beta6/Godot_v4.2-beta6_android_editor.apk"
@@ -302,7 +302,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 48991579,
-    "download_count": 69,
+    "download_count": 70,
     "created_at": "2023-11-13T10:57:26Z",
     "updated_at": "2023-11-13T10:57:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-beta6/Godot_v4.2-beta6_win32.exe.zip"
