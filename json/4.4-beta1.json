@@ -22,7 +22,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 89,
-    "download_count": 5,
+    "download_count": 9,
     "created_at": "2025-01-16T20:23:59Z",
     "updated_at": "2025-01-16T20:24:00Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-beta1/godot-4.4-beta1.tar.xz.sha256"
@@ -78,7 +78,7 @@
     "content_type": "application/vnd.android.package-archive",
     "state": "uploaded",
     "size": 236182413,
-    "download_count": 2049,
+    "download_count": 2050,
     "created_at": "2025-01-16T20:24:48Z",
     "updated_at": "2025-01-16T20:25:20Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-beta1/Godot_v4.4-beta1_android_editor.apk"
@@ -106,7 +106,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 1199233723,
-    "download_count": 3179,
+    "download_count": 3180,
     "created_at": "2025-01-16T20:25:44Z",
     "updated_at": "2025-01-16T20:28:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-beta1/Godot_v4.4-beta1_export_templates.tpz"
@@ -204,7 +204,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 74325886,
-    "download_count": 38,
+    "download_count": 39,
     "created_at": "2025-01-16T20:33:26Z",
     "updated_at": "2025-01-16T20:33:36Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-beta1/Godot_v4.4-beta1_mono_linux_arm32.zip"
