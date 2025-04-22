@@ -36,7 +36,7 @@
     "content_type": "application/octet-stream",
     "state": "uploaded",
     "size": 534244039,
-    "download_count": 337,
+    "download_count": 338,
     "created_at": "2023-09-19T12:47:32Z",
     "updated_at": "2023-09-19T12:48:06Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-stable/Godot_v3.4.4-stable_export_templates.tpz"
@@ -78,7 +78,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 73445787,
-    "download_count": 208,
+    "download_count": 209,
     "created_at": "2023-09-19T12:48:15Z",
     "updated_at": "2023-09-19T12:48:20Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-stable/Godot_v3.4.4-stable_osx.universal.zip"
@@ -106,7 +106,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 32745930,
-    "download_count": 107,
+    "download_count": 108,
     "created_at": "2023-09-19T12:48:26Z",
     "updated_at": "2023-09-19T12:48:28Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-stable/Godot_v3.4.4-stable_win32.exe.zip"
@@ -120,7 +120,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 38228602,
-    "download_count": 1910,
+    "download_count": 1911,
     "created_at": "2023-09-19T12:48:29Z",
     "updated_at": "2023-09-19T12:48:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-stable/Godot_v3.4.4-stable_win64.exe.zip"
@@ -246,7 +246,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 105439147,
-    "download_count": 89,
+    "download_count": 90,
     "created_at": "2023-09-19T12:50:18Z",
     "updated_at": "2023-09-19T12:50:30Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-stable/Godot_v3.4.4-stable_mono_osx.universal.zip"
@@ -260,7 +260,7 @@
     "content_type": "application/zip",
     "state": "uploaded",
     "size": 61194436,
-    "download_count": 76,
+    "download_count": 77,
     "created_at": "2023-09-19T12:50:31Z",
     "updated_at": "2023-09-19T12:50:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-stable/Godot_v3.4.4-stable_mono_win32.zip"
