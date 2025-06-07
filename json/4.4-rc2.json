@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 59579875,
     "digest": null,
-    "download_count": 10,
+    "download_count": 12,
     "created_at": "2025-02-26T11:12:32Z",
     "updated_at": "2025-02-26T11:12:39Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-rc2/Godot_v4.4-rc2_linux.arm64.zip"
@@ -414,7 +414,7 @@
     "state": "uploaded",
     "size": 4442,
     "digest": null,
-    "download_count": 9,
+    "download_count": 56,
     "created_at": "2025-02-26T11:18:27Z",
     "updated_at": "2025-02-26T11:18:27Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-rc2/SHA512-SUMS.txt"
