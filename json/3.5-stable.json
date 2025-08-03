@@ -9,7 +9,7 @@
     "state": "uploaded",
     "size": 136985843,
     "digest": null,
-    "download_count": 11535,
+    "download_count": 11556,
     "created_at": "2023-09-19T12:34:13Z",
     "updated_at": "2023-09-19T12:34:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_android_editor.apk"
@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 576112811,
     "digest": null,
-    "download_count": 3392,
+    "download_count": 3399,
     "created_at": "2023-09-19T12:34:26Z",
     "updated_at": "2023-09-19T12:35:03Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_export_templates.tpz"
@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 36789424,
     "digest": null,
-    "download_count": 857,
+    "download_count": 859,
     "created_at": "2023-09-19T12:35:04Z",
     "updated_at": "2023-09-19T12:35:07Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_linux_headless.64.zip"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 68945391,
     "digest": null,
-    "download_count": 2388,
+    "download_count": 2393,
     "created_at": "2023-09-19T12:35:12Z",
     "updated_at": "2023-09-19T12:35:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_osx.universal.zip"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 16016149,
     "digest": null,
-    "download_count": 1511,
+    "download_count": 1512,
     "created_at": "2023-09-19T12:35:18Z",
     "updated_at": "2023-09-19T12:35:19Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_web_editor.zip"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 32586796,
     "digest": null,
-    "download_count": 2396,
+    "download_count": 2400,
     "created_at": "2023-09-19T12:35:20Z",
     "updated_at": "2023-09-19T12:35:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_win32.exe.zip"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 37924633,
     "digest": null,
-    "download_count": 50053,
+    "download_count": 50118,
     "created_at": "2023-09-19T12:35:24Z",
     "updated_at": "2023-09-19T12:35:27Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_win64.exe.zip"
@@ -174,7 +174,7 @@
     "state": "uploaded",
     "size": 39531508,
     "digest": null,
-    "download_count": 3343,
+    "download_count": 3350,
     "created_at": "2023-09-19T12:35:32Z",
     "updated_at": "2023-09-19T12:35:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_x11.64.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 660380260,
     "digest": null,
-    "download_count": 494,
+    "download_count": 495,
     "created_at": "2023-09-19T12:35:46Z",
     "updated_at": "2023-09-19T12:36:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_mono_export_templates.tpz"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 101089130,
     "digest": null,
-    "download_count": 451,
+    "download_count": 452,
     "created_at": "2023-09-19T12:36:44Z",
     "updated_at": "2023-09-19T12:36:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_mono_osx.universal.zip"
@@ -309,7 +309,7 @@
     "state": "uploaded",
     "size": 66476119,
     "digest": null,
-    "download_count": 4547,
+    "download_count": 4553,
     "created_at": "2023-09-19T12:36:57Z",
     "updated_at": "2023-09-19T12:37:01Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_mono_win64.zip"
