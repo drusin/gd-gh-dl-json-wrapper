@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 641944500,
     "digest": "sha256:8753cd889c0c27d86c2efb6a6fc71b4cb36701c0473d30cac4a0a5bafb008871",
-    "download_count": 759,
+    "download_count": 760,
     "created_at": "2025-09-10T16:28:26Z",
     "updated_at": "2025-09-10T16:29:51Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-rc2/Godot_v4.5-rc2_android_editor.apk"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 1356908239,
     "digest": "sha256:f9a18700077ee1280486439904bbf99c99c106e8f07aea5ddacbc216ce98b6f3",
-    "download_count": 1670,
+    "download_count": 1671,
     "created_at": "2025-09-10T16:30:38Z",
     "updated_at": "2025-09-10T16:33:38Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-rc2/Godot_v4.5-rc2_export_templates.tpz"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 68795728,
     "digest": "sha256:1618845f9e62381feb86127123a536ba4229b979a8918a7a985df6e6d588bc33",
-    "download_count": 1377,
+    "download_count": 1378,
     "created_at": "2025-09-10T16:34:19Z",
     "updated_at": "2025-09-10T16:34:29Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-rc2/Godot_v4.5-rc2_linux.x86_64.zip"
@@ -414,7 +414,7 @@
     "state": "uploaded",
     "size": 75889125,
     "digest": "sha256:52dd78e3353f5bee688f1fd7762c2556da8ed0e879959ff659cd1565134b651a",
-    "download_count": 2622,
+    "download_count": 2630,
     "created_at": "2025-09-10T16:35:30Z",
     "updated_at": "2025-09-10T16:35:40Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-rc2/Godot_v4.5-rc2_win64.exe.zip"
@@ -444,7 +444,7 @@
     "state": "uploaded",
     "size": 4820,
     "digest": "sha256:b17749af27d4c9bb75a40cbc958f31784fd32ddc3e3d77ebc9bed1814774b195",
-    "download_count": 862,
+    "download_count": 883,
     "created_at": "2025-09-10T16:41:39Z",
     "updated_at": "2025-09-10T16:41:39Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-rc2/SHA512-SUMS.txt"
