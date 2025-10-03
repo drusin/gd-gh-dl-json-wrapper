@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 99748360,
     "digest": "sha256:35f72dbc74feaeb0064e6da6941a72a6b87d9ebad7b2321b7a6f9e91288414c4",
-    "download_count": 27,
+    "download_count": 28,
     "created_at": "2025-06-02T12:50:00Z",
     "updated_at": "2025-06-02T12:50:14Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev5/godot-lib.4.5.dev5.template_release.aar"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 1214594451,
     "digest": "sha256:c1f42273dbf4c8f4a3b741975a654561ee2668689743b23f1b6d7712952784e7",
-    "download_count": 1808,
+    "download_count": 1813,
     "created_at": "2025-06-02T12:54:58Z",
     "updated_at": "2025-06-02T12:57:45Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev5/Godot_v4.5-dev5_export_templates.tpz"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 62796265,
     "digest": "sha256:d7d7843abb5ae33f0a3bedd0d59cf058f2673bac55c398136067f29aac6cc59f",
-    "download_count": 1462,
+    "download_count": 1463,
     "created_at": "2025-06-02T12:58:16Z",
     "updated_at": "2025-06-02T12:58:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev5/Godot_v4.5-dev5_linux.x86_64.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 85509028,
     "digest": "sha256:183eec38552958280699bd9f818b6c7b4a7fc5a5e360512c962a7d373fe2c890",
-    "download_count": 1416,
+    "download_count": 1418,
     "created_at": "2025-06-02T13:03:13Z",
     "updated_at": "2025-06-02T13:03:32Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev5/Godot_v4.5-dev5_mono_linux_x86_64.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 162892300,
     "digest": "sha256:ab3d340e01cb68e0dbbbc117693dad630e0a6e0bc2c814bd9bd65fde02e83ebf",
-    "download_count": 237,
+    "download_count": 238,
     "created_at": "2025-06-02T13:03:33Z",
     "updated_at": "2025-06-02T13:03:55Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev5/Godot_v4.5-dev5_mono_macos.universal.zip"
