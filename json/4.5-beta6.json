@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 636718088,
     "digest": "sha256:db9e59ebf3a782f95d805df1135d7147b7ac8268896d333298e614d092aee9d2",
-    "download_count": 700,
+    "download_count": 702,
     "created_at": "2025-08-21T20:50:57Z",
     "updated_at": "2025-08-21T20:52:20Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta6/Godot_v4.5-beta6_android_editor.apk"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 157729423,
     "digest": "sha256:51c9f6587f548064189b2157fd668482d079504e8869ab185d7313a9e528d92b",
-    "download_count": 42,
+    "download_count": 44,
     "created_at": "2025-08-21T20:52:21Z",
     "updated_at": "2025-08-21T20:52:43Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta6/Godot_v4.5-beta6_android_editor_horizonos.apk"
@@ -384,7 +384,7 @@
     "state": "uploaded",
     "size": 74598203,
     "digest": "sha256:ff56d29a6ad5ff6b9874ebbf501c4056def19b78827dc05b888566cdeb5a5157",
-    "download_count": 2758,
+    "download_count": 2759,
     "created_at": "2025-08-21T20:57:26Z",
     "updated_at": "2025-08-21T20:57:37Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta6/Godot_v4.5-beta6_win64.exe.zip"
