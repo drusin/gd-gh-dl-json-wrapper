@@ -9,7 +9,7 @@
     "state": "uploaded",
     "size": 42091056,
     "digest": "sha256:6fd7d6c2ee52f8243eb06b1645176bd9ea9ed9abff40ecff3f5fa01b6cbf75b4",
-    "download_count": 19,
+    "download_count": 20,
     "created_at": "2025-08-29T14:58:41Z",
     "updated_at": "2025-08-29T14:58:46Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta7/godot-4.5-beta7.tar.xz"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 165158188,
     "digest": "sha256:fe4d452f1af252021a3cbc21b56d24668de614ca8d48c1e870ac7fde30b51699",
-    "download_count": 42,
+    "download_count": 43,
     "created_at": "2025-08-29T15:05:53Z",
     "updated_at": "2025-08-29T15:06:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta7/Godot_v4.5-beta7_android_editor_picoos.apk"
@@ -264,7 +264,7 @@
     "state": "uploaded",
     "size": 87286088,
     "digest": "sha256:594716193e587c4fd5feecd00bc94ca6641a155eb0fd06facaf954c5e41538e8",
-    "download_count": 38,
+    "download_count": 39,
     "created_at": "2025-08-29T15:14:30Z",
     "updated_at": "2025-08-29T15:14:42Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta7/Godot_v4.5-beta7_mono_linux_arm32.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 179942892,
     "digest": "sha256:78df6943d8467a5e5f7ea41189c0ddd9b8a373a02e3ff0a4a8dec9773b229c68",
-    "download_count": 210,
+    "download_count": 211,
     "created_at": "2025-08-29T15:15:22Z",
     "updated_at": "2025-08-29T15:15:46Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta7/Godot_v4.5-beta7_mono_macos.universal.zip"
