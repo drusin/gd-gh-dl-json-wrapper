@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 534224684,
     "digest": null,
-    "download_count": 41,
+    "download_count": 42,
     "created_at": "2023-09-19T18:24:11Z",
     "updated_at": "2023-09-19T18:24:43Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-rc2/Godot_v3.4.4-rc2_export_templates.tpz"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 17186205,
     "digest": null,
-    "download_count": 99,
+    "download_count": 101,
     "created_at": "2023-09-19T18:24:58Z",
     "updated_at": "2023-09-19T18:25:00Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-rc2/Godot_v3.4.4-rc2_web_editor.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 622795884,
     "digest": null,
-    "download_count": 27,
+    "download_count": 28,
     "created_at": "2023-09-19T18:25:27Z",
     "updated_at": "2023-09-19T18:26:14Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-rc2/Godot_v3.4.4-rc2_mono_export_templates.tpz"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 69197317,
     "digest": null,
-    "download_count": 93,
+    "download_count": 94,
     "created_at": "2023-09-19T18:26:16Z",
     "updated_at": "2023-09-19T18:26:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-rc2/Godot_v3.4.4-rc2_mono_linux_headless_64.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 61182925,
     "digest": null,
-    "download_count": 92,
+    "download_count": 93,
     "created_at": "2023-09-19T18:26:46Z",
     "updated_at": "2023-09-19T18:26:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-rc2/Godot_v3.4.4-rc2_mono_win32.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 53826358,
     "digest": null,
-    "download_count": 29,
+    "download_count": 31,
     "created_at": "2023-09-19T18:27:12Z",
     "updated_at": "2023-09-19T18:27:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4.4-rc2/godot-lib.3.4.4.rc2.mono.release.aar"
