@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 295710999,
     "digest": "sha256:61d4f74b761fa728f7ca5b70e14ba6ddea3362bd95ee270c03e33a71a02ea874",
-    "download_count": 14,
+    "download_count": 15,
     "created_at": "2025-09-10T16:27:45Z",
     "updated_at": "2025-09-10T16:28:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-rc2/Godot_v4.5-rc2_android_editor.aab"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 121575827,
     "digest": "sha256:1745e05c341606bf82a7fda7c36e8df37fef7bb44b0f6727b4c330764414f120",
-    "download_count": 982,
+    "download_count": 984,
     "created_at": "2025-09-10T16:41:04Z",
     "updated_at": "2025-09-10T16:41:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-rc2/Godot_v4.5-rc2_mono_win64.zip"
