@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100642841,
     "digest": "sha256:340bec193fd7eb378b3c8052a98c4c937ce38a48327755a0a6b78558b2e32084",
-    "download_count": 57,
+    "download_count": 58,
     "created_at": "2025-10-08T20:50:39Z",
     "updated_at": "2025-10-08T20:50:53Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.1-rc2/godot-lib.4.5.1.rc2.template_release.aar"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 159695507,
     "digest": "sha256:724bfab43f00152e50148f16cf6d156bb36051cbc36eb47c27694533170e9679",
-    "download_count": 52,
+    "download_count": 53,
     "created_at": "2025-10-08T20:57:14Z",
     "updated_at": "2025-10-08T20:57:36Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.1-rc2/Godot_v4.5.1-rc2_android_editor_horizonos.apk"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 167107880,
     "digest": "sha256:00df7c2b75032fecf52b4c4381bd14dc7ee19040458fbe1c792675162c4eda01",
-    "download_count": 44,
+    "download_count": 45,
     "created_at": "2025-10-08T20:57:37Z",
     "updated_at": "2025-10-08T20:57:59Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.1-rc2/Godot_v4.5.1-rc2_android_editor_picoos.apk"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 1355506205,
     "digest": "sha256:49a44ab14ec6adc115e7a8dc2784ccc5cd845ea7755729ef0722c186d12bcd26",
-    "download_count": 376,
+    "download_count": 377,
     "created_at": "2025-10-08T20:58:00Z",
     "updated_at": "2025-10-08T21:01:09Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.1-rc2/Godot_v4.5.1-rc2_export_templates.tpz"
@@ -264,7 +264,7 @@
     "state": "uploaded",
     "size": 89347709,
     "digest": "sha256:5b4a61d963fb4f1aa935c4e7562892ab7da62a638130cecbd812de06c023c7d4",
-    "download_count": 48,
+    "download_count": 49,
     "created_at": "2025-10-08T21:06:13Z",
     "updated_at": "2025-10-08T21:06:30Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.1-rc2/Godot_v4.5.1-rc2_mono_linux_arm32.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 91475899,
     "digest": "sha256:f742d1dc3d2f39977d2b75cc1db8080fd15ef99ed2d1eb9a019cf8d930896d55",
-    "download_count": 48,
+    "download_count": 49,
     "created_at": "2025-10-08T21:06:31Z",
     "updated_at": "2025-10-08T21:06:44Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.1-rc2/Godot_v4.5.1-rc2_mono_linux_arm64.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 92752905,
     "digest": "sha256:eb4ff116d660603a5c7b07370c5c07e7caf65fe8a73cfc1a18c7fe1b95bdbd0b",
-    "download_count": 52,
+    "download_count": 53,
     "created_at": "2025-10-08T21:06:45Z",
     "updated_at": "2025-10-08T21:06:59Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.1-rc2/Godot_v4.5.1-rc2_mono_linux_x86_32.zip"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 100451276,
     "digest": "sha256:337ae9d332d213e700616ef9c137e0ce453af85d434532d63657b384c119fa53",
-    "download_count": 442,
+    "download_count": 444,
     "created_at": "2025-10-08T21:07:55Z",
     "updated_at": "2025-10-08T21:08:09Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.1-rc2/Godot_v4.5.1-rc2_mono_win64.zip"
@@ -369,7 +369,7 @@
     "state": "uploaded",
     "size": 99972694,
     "digest": "sha256:e05503509722542b7940fc9c84db05f51202049162da411d9525ec173b4b7710",
-    "download_count": 52,
+    "download_count": 53,
     "created_at": "2025-10-08T21:08:10Z",
     "updated_at": "2025-10-08T21:08:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.1-rc2/Godot_v4.5.1-rc2_mono_windows_arm64.zip"
@@ -429,7 +429,7 @@
     "state": "uploaded",
     "size": 76161599,
     "digest": "sha256:62399b94b150aa802fe0b9eb5be7f09c1017fbd7a22073cb517440d647ac7f7d",
-    "download_count": 53,
+    "download_count": 54,
     "created_at": "2025-10-08T21:02:54Z",
     "updated_at": "2025-10-08T21:03:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.1-rc2/Godot_v4.5.1-rc2_windows_arm64.exe.zip"
