@@ -9,7 +9,7 @@
     "state": "uploaded",
     "size": 136181013,
     "digest": null,
-    "download_count": 6041,
+    "download_count": 6045,
     "created_at": "2023-09-19T17:43:13Z",
     "updated_at": "2023-09-19T17:43:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc7/Godot_v3.5-rc7_android_editor.apk"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 32911698,
     "digest": null,
-    "download_count": 109,
+    "download_count": 111,
     "created_at": "2023-09-19T17:44:23Z",
     "updated_at": "2023-09-19T17:44:26Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc7/Godot_v3.5-rc7_x11.32.zip"
@@ -174,7 +174,7 @@
     "state": "uploaded",
     "size": 39320204,
     "digest": null,
-    "download_count": 237,
+    "download_count": 238,
     "created_at": "2023-09-19T17:44:27Z",
     "updated_at": "2023-09-19T17:44:30Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc7/Godot_v3.5-rc7_x11.64.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 69078913,
     "digest": null,
-    "download_count": 147,
+    "download_count": 151,
     "created_at": "2023-09-19T17:45:20Z",
     "updated_at": "2023-09-19T17:45:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc7/Godot_v3.5-rc7_mono_linux_headless_64.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 100684648,
     "digest": null,
-    "download_count": 337,
+    "download_count": 338,
     "created_at": "2023-09-19T17:45:29Z",
     "updated_at": "2023-09-19T17:45:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc7/Godot_v3.5-rc7_mono_osx.universal.zip"
