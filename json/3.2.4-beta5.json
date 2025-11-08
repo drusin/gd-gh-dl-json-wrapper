@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 65625289,
     "digest": null,
-    "download_count": 12,
+    "download_count": 18,
     "created_at": "2023-09-19T21:54:23Z",
     "updated_at": "2023-09-19T21:54:29Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2.4-beta5/Godot_v3.2.4-beta5_mono_osx.64.zip"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 61400336,
     "digest": null,
-    "download_count": 87,
+    "download_count": 92,
     "created_at": "2023-09-19T21:54:36Z",
     "updated_at": "2023-09-19T21:54:39Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2.4-beta5/Godot_v3.2.4-beta5_mono_win64.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 80836783,
     "digest": null,
-    "download_count": 79,
+    "download_count": 84,
     "created_at": "2023-09-19T21:54:47Z",
     "updated_at": "2023-09-19T21:54:51Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2.4-beta5/Godot_v3.2.4-beta5_mono_x11_64.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 62377360,
     "digest": null,
-    "download_count": 91,
+    "download_count": 100,
     "created_at": "2023-09-19T21:52:52Z",
     "updated_at": "2023-09-19T21:52:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2.4-beta5/Godot_v3.2.4-beta5_osx.universal.zip"
@@ -264,7 +264,7 @@
     "state": "uploaded",
     "size": 28993825,
     "digest": null,
-    "download_count": 91,
+    "download_count": 96,
     "created_at": "2023-09-19T21:53:01Z",
     "updated_at": "2023-09-19T21:53:03Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2.4-beta5/Godot_v3.2.4-beta5_win64.exe.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 31926068,
     "digest": null,
-    "download_count": 112,
+    "download_count": 118,
     "created_at": "2023-09-19T21:53:08Z",
     "updated_at": "2023-09-19T21:53:10Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2.4-beta5/Godot_v3.2.4-beta5_x11.64.zip"

@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 56158561,
     "digest": null,
-    "download_count": 111,
+    "download_count": 117,
     "created_at": "2023-09-19T16:04:49Z",
     "updated_at": "2023-09-19T16:04:53Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta15/Godot_v4.0-beta15_linux.x86_64.zip"
@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 108167324,
     "digest": null,
-    "download_count": 106,
+    "download_count": 113,
     "created_at": "2023-09-19T16:04:55Z",
     "updated_at": "2023-09-19T16:05:13Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta15/Godot_v4.0-beta15_macos.universal.zip"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 55907535,
     "digest": null,
-    "download_count": 122,
+    "download_count": 127,
     "created_at": "2023-09-19T16:05:22Z",
     "updated_at": "2023-09-19T16:05:26Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta15/Godot_v4.0-beta15_win64.exe.zip"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 63655582,
     "digest": null,
-    "download_count": 100,
+    "download_count": 105,
     "created_at": "2023-09-19T16:06:23Z",
     "updated_at": "2023-09-19T16:06:27Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta15/Godot_v4.0-beta15_mono_linux_x86_64.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 115895523,
     "digest": null,
-    "download_count": 102,
+    "download_count": 109,
     "created_at": "2023-09-19T16:06:28Z",
     "updated_at": "2023-09-19T16:06:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta15/Godot_v4.0-beta15_mono_macos.universal.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 63469407,
     "digest": null,
-    "download_count": 102,
+    "download_count": 107,
     "created_at": "2023-09-19T16:06:42Z",
     "updated_at": "2023-09-19T16:06:48Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta15/Godot_v4.0-beta15_mono_win64.zip"
