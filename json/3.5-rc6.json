@@ -9,7 +9,7 @@
     "state": "uploaded",
     "size": 135761861,
     "digest": null,
-    "download_count": 118,
+    "download_count": 119,
     "created_at": "2023-09-19T17:46:19Z",
     "updated_at": "2023-09-19T17:46:26Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc6/Godot_v3.5-rc6_android_editor.apk"
@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 14550211,
     "digest": null,
-    "download_count": 98,
+    "download_count": 99,
     "created_at": "2023-09-19T17:47:14Z",
     "updated_at": "2023-09-19T17:47:16Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc6/Godot_v3.5-rc6_linux_server.64.zip"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 68341451,
     "digest": null,
-    "download_count": 112,
+    "download_count": 113,
     "created_at": "2023-09-19T17:47:17Z",
     "updated_at": "2023-09-19T17:47:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc6/Godot_v3.5-rc6_osx.universal.zip"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 15724061,
     "digest": null,
-    "download_count": 96,
+    "download_count": 97,
     "created_at": "2023-09-19T17:47:22Z",
     "updated_at": "2023-09-19T17:47:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc6/Godot_v3.5-rc6_web_editor.zip"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 37611205,
     "digest": null,
-    "download_count": 150,
+    "download_count": 152,
     "created_at": "2023-09-19T17:47:29Z",
     "updated_at": "2023-09-19T17:47:32Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc6/Godot_v3.5-rc6_win64.exe.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 100480418,
     "digest": null,
-    "download_count": 112,
+    "download_count": 113,
     "created_at": "2023-09-19T17:48:49Z",
     "updated_at": "2023-09-19T17:48:56Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc6/Godot_v3.5-rc6_mono_osx.universal.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 65902970,
     "digest": null,
-    "download_count": 97,
+    "download_count": 98,
     "created_at": "2023-09-19T17:49:08Z",
     "updated_at": "2023-09-19T17:49:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-rc6/Godot_v3.5-rc6_mono_x11_32.zip"
