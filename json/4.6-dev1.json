@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 641990505,
     "digest": "sha256:9c6f0677028c34106f347f5c14e5e77a6eb26d9766c8dbee9dcc8712097e94ca",
-    "download_count": 1211,
+    "download_count": 1213,
     "created_at": "2025-09-30T15:11:53Z",
     "updated_at": "2025-09-30T15:13:19Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/Godot_v4.6-dev1_android_editor.apk"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 69110758,
     "digest": "sha256:07ffa8fb53ed0a76dab46d8f7acd67afa11d8876fbb35c741383e6285fb1b8ad",
-    "download_count": 1001,
+    "download_count": 1002,
     "created_at": "2025-09-30T15:17:44Z",
     "updated_at": "2025-09-30T15:17:54Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/Godot_v4.6-dev1_linux.x86_64.zip"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 105540440,
     "digest": "sha256:1d910edb761cf76561cf6ff3be003fd35d71fc24bcf43354981b2ef717d4a7e5",
-    "download_count": 1028,
+    "download_count": 1030,
     "created_at": "2025-09-30T15:23:49Z",
     "updated_at": "2025-09-30T15:24:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/Godot_v4.6-dev1_mono_win64.zip"
@@ -399,7 +399,7 @@
     "state": "uploaded",
     "size": 78095783,
     "digest": "sha256:ea8f8185d7b9daf5597290c8f276d85e42d613d922dcd54f462356257a35b8c6",
-    "download_count": 120,
+    "download_count": 121,
     "created_at": "2025-09-30T15:18:25Z",
     "updated_at": "2025-09-30T15:18:36Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/Godot_v4.6-dev1_win32.exe.zip"
@@ -414,7 +414,7 @@
     "state": "uploaded",
     "size": 76291983,
     "digest": "sha256:e5ecc8e7f3e4261a5a1ac05b6139b37214bc33bea4c2d50682d2649037b525a5",
-    "download_count": 3272,
+    "download_count": 3276,
     "created_at": "2025-09-30T15:18:37Z",
     "updated_at": "2025-09-30T15:18:48Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/Godot_v4.6-dev1_win64.exe.zip"
@@ -429,7 +429,7 @@
     "state": "uploaded",
     "size": 75675021,
     "digest": "sha256:bbb67498537a14b8ff58821ec504cc5513a46abf6cd39ae8bc286dae4aeff7b2",
-    "download_count": 67,
+    "download_count": 68,
     "created_at": "2025-09-30T15:18:49Z",
     "updated_at": "2025-09-30T15:19:00Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/Godot_v4.6-dev1_windows_arm64.exe.zip"
