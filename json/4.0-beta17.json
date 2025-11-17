@@ -9,7 +9,7 @@
     "state": "uploaded",
     "size": 216120923,
     "digest": null,
-    "download_count": 146,
+    "download_count": 147,
     "created_at": "2023-09-19T15:57:07Z",
     "updated_at": "2023-09-19T15:57:18Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta17/Godot_v4.0-beta17_android_editor.apk"
@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 49304109,
     "digest": null,
-    "download_count": 103,
+    "download_count": 104,
     "created_at": "2023-09-19T15:58:13Z",
     "updated_at": "2023-09-19T15:58:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta17/Godot_v4.0-beta17_linux.x86_32.zip"
@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 108627619,
     "digest": null,
-    "download_count": 132,
+    "download_count": 133,
     "created_at": "2023-09-19T15:58:24Z",
     "updated_at": "2023-09-19T15:58:31Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta17/Godot_v4.0-beta17_macos.universal.zip"
@@ -174,7 +174,7 @@
     "state": "uploaded",
     "size": 302898789,
     "digest": null,
-    "download_count": 42,
+    "download_count": 43,
     "created_at": "2023-09-19T15:59:07Z",
     "updated_at": "2023-09-19T15:59:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta17/Godot_v4.0-beta17_mono_export_templates.tpz"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 56898468,
     "digest": null,
-    "download_count": 107,
+    "download_count": 108,
     "created_at": "2023-09-19T15:59:26Z",
     "updated_at": "2023-09-19T15:59:29Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta17/Godot_v4.0-beta17_mono_linux_x86_32.zip"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 63984257,
     "digest": null,
-    "download_count": 125,
+    "download_count": 126,
     "created_at": "2023-09-19T15:59:30Z",
     "updated_at": "2023-09-19T15:59:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta17/Godot_v4.0-beta17_mono_linux_x86_64.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 116485600,
     "digest": null,
-    "download_count": 112,
+    "download_count": 113,
     "created_at": "2023-09-19T15:59:35Z",
     "updated_at": "2023-09-19T15:59:42Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta17/Godot_v4.0-beta17_mono_macos.universal.zip"
