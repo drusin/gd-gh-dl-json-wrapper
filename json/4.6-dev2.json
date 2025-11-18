@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 1224261370,
     "digest": "sha256:4c8a889dd745332474e2acdc3553780e439b2b66fe79a80d7014605254851282",
-    "download_count": 993,
+    "download_count": 998,
     "created_at": "2025-10-20T21:16:00Z",
     "updated_at": "2025-10-20T21:18:36Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev2/Godot_v4.6-dev2_export_templates.tpz"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 1145516516,
     "digest": "sha256:b243dee180ec351b61f51d733960de3194537c4e6601c173949bc75086f5e378",
-    "download_count": 222,
+    "download_count": 224,
     "created_at": "2025-10-20T21:20:52Z",
     "updated_at": "2025-10-20T21:23:30Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev2/Godot_v4.6-dev2_mono_export_templates.tpz"
@@ -384,7 +384,7 @@
     "state": "uploaded",
     "size": 47158010,
     "digest": "sha256:5949e9c6b2161551af5b4946be1d1545619d35fcfc3700751f1eb347176b1d83",
-    "download_count": 260,
+    "download_count": 261,
     "created_at": "2025-10-20T21:19:49Z",
     "updated_at": "2025-10-20T21:19:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev2/Godot_v4.6-dev2_web_editor.zip"
