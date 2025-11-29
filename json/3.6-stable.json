@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 60059272,
     "digest": null,
-    "download_count": 110,
+    "download_count": 111,
     "created_at": "2024-09-09T08:10:12Z",
     "updated_at": "2024-09-09T08:10:20Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/godot-lib.3.6.stable.mono.release.aar"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 606706456,
     "digest": null,
-    "download_count": 4712,
+    "download_count": 4734,
     "created_at": "2024-09-09T08:07:56Z",
     "updated_at": "2024-09-09T08:09:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_export_templates.tpz"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 32173167,
     "digest": null,
-    "download_count": 1720,
+    "download_count": 1740,
     "created_at": "2024-09-09T08:09:21Z",
     "updated_at": "2024-09-09T08:09:27Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_linux_headless.64.zip"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 64515891,
     "digest": null,
-    "download_count": 200,
+    "download_count": 201,
     "created_at": "2024-09-09T08:11:41Z",
     "updated_at": "2024-09-09T08:11:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_mono_linux_headless_64.zip"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 18589954,
     "digest": null,
-    "download_count": 104,
+    "download_count": 105,
     "created_at": "2024-09-09T08:11:50Z",
     "updated_at": "2024-09-09T08:11:53Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_mono_linux_server_64.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 90705343,
     "digest": null,
-    "download_count": 458,
+    "download_count": 459,
     "created_at": "2024-09-09T08:11:54Z",
     "updated_at": "2024-09-09T08:12:05Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_mono_osx.universal.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 62822712,
     "digest": null,
-    "download_count": 2600,
+    "download_count": 2601,
     "created_at": "2024-09-09T08:12:14Z",
     "updated_at": "2024-09-09T08:12:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_mono_win64.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 67409203,
     "digest": null,
-    "download_count": 812,
+    "download_count": 813,
     "created_at": "2024-09-09T08:12:33Z",
     "updated_at": "2024-09-09T08:12:41Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_mono_x11_64.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 28673726,
     "digest": null,
-    "download_count": 601,
+    "download_count": 602,
     "created_at": "2024-09-09T08:09:41Z",
     "updated_at": "2024-09-09T08:09:45Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_win32.exe.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 34249165,
     "digest": null,
-    "download_count": 16666,
+    "download_count": 16671,
     "created_at": "2024-09-09T08:09:46Z",
     "updated_at": "2024-09-09T08:10:01Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_win64.exe.zip"
@@ -369,7 +369,7 @@
     "state": "uploaded",
     "size": 34807425,
     "digest": null,
-    "download_count": 3366,
+    "download_count": 3368,
     "created_at": "2024-09-09T08:10:07Z",
     "updated_at": "2024-09-09T08:10:11Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_x11.64.zip"
