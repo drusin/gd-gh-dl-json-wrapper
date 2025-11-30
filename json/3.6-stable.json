@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 60059272,
     "digest": null,
-    "download_count": 111,
+    "download_count": 113,
     "created_at": "2024-09-09T08:10:12Z",
     "updated_at": "2024-09-09T08:10:20Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/godot-lib.3.6.stable.mono.release.aar"
@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 108922041,
     "digest": null,
-    "download_count": 3213,
+    "download_count": 3217,
     "created_at": "2024-09-09T08:07:41Z",
     "updated_at": "2024-09-09T08:07:55Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_android_editor.apk"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 606706456,
     "digest": null,
-    "download_count": 4757,
+    "download_count": 4767,
     "created_at": "2024-09-09T08:07:56Z",
     "updated_at": "2024-09-09T08:09:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_export_templates.tpz"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 32173167,
     "digest": null,
-    "download_count": 1746,
+    "download_count": 1750,
     "created_at": "2024-09-09T08:09:21Z",
     "updated_at": "2024-09-09T08:09:27Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_linux_headless.64.zip"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 12372250,
     "digest": null,
-    "download_count": 116,
+    "download_count": 118,
     "created_at": "2024-09-09T08:09:27Z",
     "updated_at": "2024-09-09T08:09:29Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_linux_server.64.zip"
@@ -174,7 +174,7 @@
     "state": "uploaded",
     "size": 635400182,
     "digest": null,
-    "download_count": 710,
+    "download_count": 712,
     "created_at": "2024-09-09T08:10:21Z",
     "updated_at": "2024-09-09T08:11:40Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_mono_export_templates.tpz"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 90705343,
     "digest": null,
-    "download_count": 459,
+    "download_count": 461,
     "created_at": "2024-09-09T08:11:54Z",
     "updated_at": "2024-09-09T08:12:05Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_mono_osx.universal.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 57315597,
     "digest": null,
-    "download_count": 271,
+    "download_count": 273,
     "created_at": "2024-09-09T08:12:06Z",
     "updated_at": "2024-09-09T08:12:14Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_mono_win32.zip"
@@ -264,7 +264,7 @@
     "state": "uploaded",
     "size": 62672482,
     "digest": null,
-    "download_count": 115,
+    "download_count": 117,
     "created_at": "2024-09-09T08:12:23Z",
     "updated_at": "2024-09-09T08:12:32Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_mono_x11_32.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 58286649,
     "digest": null,
-    "download_count": 2188,
+    "download_count": 2190,
     "created_at": "2024-09-09T08:09:30Z",
     "updated_at": "2024-09-09T08:09:38Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_osx.universal.zip"
@@ -309,7 +309,7 @@
     "state": "uploaded",
     "size": 17596050,
     "digest": null,
-    "download_count": 751,
+    "download_count": 755,
     "created_at": "2024-09-09T08:09:38Z",
     "updated_at": "2024-09-09T08:09:41Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_web_editor.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 28673726,
     "digest": null,
-    "download_count": 602,
+    "download_count": 604,
     "created_at": "2024-09-09T08:09:41Z",
     "updated_at": "2024-09-09T08:09:45Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_win32.exe.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 34249165,
     "digest": null,
-    "download_count": 16699,
+    "download_count": 16707,
     "created_at": "2024-09-09T08:09:46Z",
     "updated_at": "2024-09-09T08:10:01Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6-stable/Godot_v3.6-stable_win64.exe.zip"

@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 58114565,
     "digest": "sha256:996554a7204856ece6c7fecf4a9f545e5dc07d833fadadac36902bc43a5f237a",
-    "download_count": 48,
+    "download_count": 49,
     "created_at": "2025-07-03T23:18:17Z",
     "updated_at": "2025-07-03T23:18:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta2/Godot_v4.5-beta2_linux.arm32.zip"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 61328454,
     "digest": "sha256:a5faaed46f312b5c419ebca9ce4e3bd8c513316749c5e60270754e4b171040a7",
-    "download_count": 856,
+    "download_count": 857,
     "created_at": "2025-07-03T23:18:44Z",
     "updated_at": "2025-07-03T23:18:52Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta2/Godot_v4.5-beta2_linux.x86_64.zip"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 142801318,
     "digest": "sha256:b637cc53a78c271a07f80a5056d4370b908a2db2f60c1a053fb6f45f3b1318e3",
-    "download_count": 383,
+    "download_count": 384,
     "created_at": "2025-07-03T23:18:53Z",
     "updated_at": "2025-07-03T23:19:13Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta2/Godot_v4.5-beta2_macos.universal.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 91592297,
     "digest": "sha256:ac8eb5339c7ba6271308fdfe5c43928e4d236a9229893803852afc3c0f3ae916",
-    "download_count": 256,
+    "download_count": 259,
     "created_at": "2025-07-03T23:23:50Z",
     "updated_at": "2025-07-03T23:24:02Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta2/Godot_v4.5-beta2_mono_linux_x86_64.zip"
@@ -384,7 +384,7 @@
     "state": "uploaded",
     "size": 68396508,
     "digest": "sha256:964befc33a39b2f1064d082a14b295ceefd016badbfedb861e6bfbd2cc967fda",
-    "download_count": 1641,
+    "download_count": 1643,
     "created_at": "2025-07-03T23:19:31Z",
     "updated_at": "2025-07-03T23:19:41Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta2/Godot_v4.5-beta2_win64.exe.zip"
