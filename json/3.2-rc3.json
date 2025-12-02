@@ -1,35 +1,5 @@
 [
   {
-    "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126798715",
-    "id": 126798715,
-    "node_id": "RA_kwDOKREZmc4Hjst7",
-    "name": "godot-3.2-rc3.tar.xz",
-    "label": "",
-    "content_type": "application/x-xz",
-    "state": "uploaded",
-    "size": 14027400,
-    "digest": null,
-    "download_count": 4,
-    "created_at": "2023-09-19T20:59:04Z",
-    "updated_at": "2023-09-19T20:59:06Z",
-    "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/godot-3.2-rc3.tar.xz"
-  },
-  {
-    "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126795404",
-    "id": 126795404,
-    "node_id": "RA_kwDOKREZmc4Hjr6M",
-    "name": "godot-3.2-rc3.tar.xz.sha256",
-    "label": "",
-    "content_type": "application/octet-stream",
-    "state": "uploaded",
-    "size": 87,
-    "digest": null,
-    "download_count": 4,
-    "created_at": "2023-09-19T20:28:12Z",
-    "updated_at": "2023-09-19T20:28:12Z",
-    "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/godot-3.2-rc3.tar.xz.sha256"
-  },
-  {
     "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126795327",
     "id": 126795327,
     "node_id": "RA_kwDOKREZmc4Hjr4_",
@@ -73,6 +43,36 @@
     "created_at": "2023-09-19T20:27:47Z",
     "updated_at": "2023-09-19T20:27:48Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/Godot_v3.2-rc3_linux_server.64.zip"
+  },
+  {
+    "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126795359",
+    "id": 126795359,
+    "node_id": "RA_kwDOKREZmc4Hjr5f",
+    "name": "Godot_v3.2-rc3_osx.64.zip",
+    "label": "",
+    "content_type": "application/zip",
+    "state": "uploaded",
+    "size": 31235790,
+    "digest": null,
+    "download_count": 29,
+    "created_at": "2023-09-19T20:27:50Z",
+    "updated_at": "2023-09-19T20:27:53Z",
+    "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/Godot_v3.2-rc3_osx.64.zip"
+  },
+  {
+    "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126795404",
+    "id": 126795404,
+    "node_id": "RA_kwDOKREZmc4Hjr6M",
+    "name": "godot-3.2-rc3.tar.xz.sha256",
+    "label": "",
+    "content_type": "application/octet-stream",
+    "state": "uploaded",
+    "size": 87,
+    "digest": null,
+    "download_count": 4,
+    "created_at": "2023-09-19T20:28:12Z",
+    "updated_at": "2023-09-19T20:28:12Z",
+    "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/godot-3.2-rc3.tar.xz.sha256"
   },
   {
     "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126795409",
@@ -195,19 +195,19 @@
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/Godot_v3.2-rc3_mono_x11_64.zip"
   },
   {
-    "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126795359",
-    "id": 126795359,
-    "node_id": "RA_kwDOKREZmc4Hjr5f",
-    "name": "Godot_v3.2-rc3_osx.64.zip",
+    "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126795505",
+    "id": 126795505,
+    "node_id": "RA_kwDOKREZmc4Hjr7x",
+    "name": "README.txt",
     "label": "",
-    "content_type": "application/zip",
+    "content_type": "text/plain; charset=utf-8",
     "state": "uploaded",
-    "size": 31235790,
+    "size": 411,
     "digest": null,
-    "download_count": 27,
-    "created_at": "2023-09-19T20:27:50Z",
-    "updated_at": "2023-09-19T20:27:53Z",
-    "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/Godot_v3.2-rc3_osx.64.zip"
+    "download_count": 4,
+    "created_at": "2023-09-19T20:29:37Z",
+    "updated_at": "2023-09-19T20:29:37Z",
+    "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/README.txt"
   },
   {
     "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126798694",
@@ -270,18 +270,18 @@
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/Godot_v3.2-rc3_x11.64.zip"
   },
   {
-    "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126795505",
-    "id": 126795505,
-    "node_id": "RA_kwDOKREZmc4Hjr7x",
-    "name": "README.txt",
+    "url": "https://api.github.com/repos/godotengine/godot-builds/releases/assets/126798715",
+    "id": 126798715,
+    "node_id": "RA_kwDOKREZmc4Hjst7",
+    "name": "godot-3.2-rc3.tar.xz",
     "label": "",
-    "content_type": "text/plain; charset=utf-8",
+    "content_type": "application/x-xz",
     "state": "uploaded",
-    "size": 411,
+    "size": 14027400,
     "digest": null,
     "download_count": 4,
-    "created_at": "2023-09-19T20:29:37Z",
-    "updated_at": "2023-09-19T20:29:37Z",
-    "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/README.txt"
+    "created_at": "2023-09-19T20:59:04Z",
+    "updated_at": "2023-09-19T20:59:06Z",
+    "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.2-rc3/godot-3.2-rc3.tar.xz"
   }
 ]
