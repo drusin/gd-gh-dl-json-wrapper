@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 35033094,
     "digest": null,
-    "download_count": 101,
+    "download_count": 102,
     "created_at": "2023-09-19T19:07:05Z",
     "updated_at": "2023-09-19T19:07:08Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta2/Godot_v3.4-beta2_linux_headless.64.zip"
@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 13153962,
     "digest": null,
-    "download_count": 102,
+    "download_count": 103,
     "created_at": "2023-09-19T19:07:09Z",
     "updated_at": "2023-09-19T19:07:10Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta2/Godot_v3.4-beta2_linux_server.64.zip"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 30764317,
     "digest": null,
-    "download_count": 103,
+    "download_count": 104,
     "created_at": "2023-09-19T19:07:29Z",
     "updated_at": "2023-09-19T19:07:32Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta2/Godot_v3.4-beta2_win32.exe.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 614360816,
     "digest": null,
-    "download_count": 42,
+    "download_count": 43,
     "created_at": "2023-09-19T19:07:55Z",
     "updated_at": "2023-09-19T19:08:47Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta2/Godot_v3.4-beta2_mono_export_templates.tpz"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 67082330,
     "digest": null,
-    "download_count": 104,
+    "download_count": 107,
     "created_at": "2023-09-19T19:08:49Z",
     "updated_at": "2023-09-19T19:08:53Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta2/Godot_v3.4-beta2_mono_linux_headless_64.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 19356982,
     "digest": null,
-    "download_count": 101,
+    "download_count": 102,
     "created_at": "2023-09-19T19:08:54Z",
     "updated_at": "2023-09-19T19:08:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta2/Godot_v3.4-beta2_mono_linux_server_64.zip"
@@ -264,7 +264,7 @@
     "state": "uploaded",
     "size": 101078442,
     "digest": null,
-    "download_count": 118,
+    "download_count": 119,
     "created_at": "2023-09-19T19:08:58Z",
     "updated_at": "2023-09-19T19:09:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta2/Godot_v3.4-beta2_mono_osx.universal.zip"
