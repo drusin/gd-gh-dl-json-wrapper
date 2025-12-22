@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 48128905,
     "digest": null,
-    "download_count": 100,
+    "download_count": 101,
     "created_at": "2024-01-25T14:26:33Z",
     "updated_at": "2024-01-25T14:26:39Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1.4-rc1/Godot_v4.1.4-rc1_linux.x86_32.zip"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 55313897,
     "digest": null,
-    "download_count": 227,
+    "download_count": 228,
     "created_at": "2024-01-25T14:26:40Z",
     "updated_at": "2024-01-25T14:26:48Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1.4-rc1/Godot_v4.1.4-rc1_linux.x86_64.zip"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 107041067,
     "digest": null,
-    "download_count": 178,
+    "download_count": 179,
     "created_at": "2024-01-25T14:26:48Z",
     "updated_at": "2024-01-25T14:27:03Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1.4-rc1/Godot_v4.1.4-rc1_macos.universal.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 63172968,
     "digest": null,
-    "download_count": 201,
+    "download_count": 203,
     "created_at": "2024-01-25T14:28:48Z",
     "updated_at": "2024-01-25T14:28:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1.4-rc1/Godot_v4.1.4-rc1_mono_win64.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 50298395,
     "digest": null,
-    "download_count": 86,
+    "download_count": 87,
     "created_at": "2024-01-25T14:27:08Z",
     "updated_at": "2024-01-25T14:27:16Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1.4-rc1/Godot_v4.1.4-rc1_win32.exe.zip"
@@ -264,7 +264,7 @@
     "state": "uploaded",
     "size": 55048645,
     "digest": null,
-    "download_count": 450,
+    "download_count": 452,
     "created_at": "2024-01-25T14:27:16Z",
     "updated_at": "2024-01-25T14:27:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1.4-rc1/Godot_v4.1.4-rc1_win64.exe.zip"
