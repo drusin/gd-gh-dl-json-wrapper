@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 99750516,
     "digest": "sha256:5990ff923de1805dcd5fa991cfb1b00f29b3f986996bf35190c2094fe4a16216",
-    "download_count": 45,
+    "download_count": 47,
     "created_at": "2025-12-02T00:44:24Z",
     "updated_at": "2025-12-02T00:44:38Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev5/godot-lib.4.6.dev5.template_release.aar"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 647969079,
     "digest": "sha256:ead805121c1cd29a17990847d9c8c2ff056e6eaf2a0a082726e2181c8412a830",
-    "download_count": 596,
+    "download_count": 599,
     "created_at": "2025-12-02T00:49:46Z",
     "updated_at": "2025-12-02T00:51:13Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev5/Godot_v4.6-dev5_android_editor.apk"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 158881947,
     "digest": "sha256:03188b1879826e05bf922f9daf2d89939c879530b0c806d6d713034727d1af73",
-    "download_count": 60,
+    "download_count": 62,
     "created_at": "2025-12-02T00:51:14Z",
     "updated_at": "2025-12-02T00:51:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev5/Godot_v4.6-dev5_android_editor_horizonos.apk"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 166310684,
     "digest": "sha256:afd6dee1bce754d3d3275e802702f6b4b8b1f593c1ae323c82ce22a480cc0d18",
-    "download_count": 46,
+    "download_count": 47,
     "created_at": "2025-12-02T00:51:36Z",
     "updated_at": "2025-12-02T00:51:58Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev5/Godot_v4.6-dev5_android_editor_picoos.apk"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 1241462836,
     "digest": "sha256:c1bb7ef38fec08dd469e19a6aeb1af9cefb92b52d955f89fb9bd11e8694844aa",
-    "download_count": 718,
+    "download_count": 723,
     "created_at": "2025-12-02T00:51:59Z",
     "updated_at": "2025-12-02T00:54:43Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev5/Godot_v4.6-dev5_export_templates.tpz"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 1161423424,
     "digest": "sha256:20fbcf09e4e541e361980b15df4604d25152d78a63a51bd0f61b9f8309c288ed",
-    "download_count": 252,
+    "download_count": 253,
     "created_at": "2025-12-02T00:56:44Z",
     "updated_at": "2025-12-02T00:59:16Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev5/Godot_v4.6-dev5_mono_export_templates.tpz"
