@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100525829,
     "digest": "sha256:d9cbdbbff221e39d67fd203f46d4204fa8456cf4bc7bd7dfe093a54dc2130011",
-    "download_count": 75,
+    "download_count": 76,
     "created_at": "2025-07-03T23:10:25Z",
     "updated_at": "2025-07-03T23:10:39Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta2/godot-lib.4.5.beta2.template_release.aar"
@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 611322272,
     "digest": "sha256:dad0530dcd13ca943e8229a25eb57bffc11880064dc1cce09dd5f93f598063d8",
-    "download_count": 401,
+    "download_count": 403,
     "created_at": "2025-07-03T23:13:18Z",
     "updated_at": "2025-07-03T23:14:40Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta2/Godot_v4.5-beta2_android_editor.apk"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 150476499,
     "digest": "sha256:de2b6e03dc0fbac14cb469afc2d1b5012c302583c6e2f7e58a126f5036888ca4",
-    "download_count": 89,
+    "download_count": 90,
     "created_at": "2025-07-03T23:14:41Z",
     "updated_at": "2025-07-03T23:15:02Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta2/Godot_v4.5-beta2_android_editor_horizonos.apk"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 1342619298,
     "digest": "sha256:831550e0ecd0fbce0ad023d305d4ddacd82e02a3f9b5d2f0a5b0c81f52a58e0c",
-    "download_count": 952,
+    "download_count": 953,
     "created_at": "2025-07-03T23:15:25Z",
     "updated_at": "2025-07-03T23:18:16Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta2/Godot_v4.5-beta2_export_templates.tpz"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 1264068036,
     "digest": "sha256:6a17c1a1a541f70c75faecd5e0a6f36e9c4d0c38a9db636732b6e4167da890c3",
-    "download_count": 220,
+    "download_count": 221,
     "created_at": "2025-07-03T23:20:09Z",
     "updated_at": "2025-07-03T23:23:10Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta2/Godot_v4.5-beta2_mono_export_templates.tpz"
