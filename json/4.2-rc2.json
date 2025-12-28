@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 178115123,
     "digest": null,
-    "download_count": 376,
+    "download_count": 377,
     "created_at": "2023-11-25T12:54:56Z",
     "updated_at": "2023-11-25T12:55:32Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-rc2/Godot_v4.2-rc2_android_editor.apk"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 41874880,
     "digest": null,
-    "download_count": 125,
+    "download_count": 127,
     "created_at": "2023-11-25T12:58:26Z",
     "updated_at": "2023-11-25T12:58:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-rc2/Godot_v4.2-rc2_linux.arm32.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 54338587,
     "digest": null,
-    "download_count": 137,
+    "download_count": 139,
     "created_at": "2023-11-25T13:02:52Z",
     "updated_at": "2023-11-25T13:03:00Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-rc2/Godot_v4.2-rc2_mono_linux_x86_32.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 55042725,
     "digest": null,
-    "download_count": 395,
+    "download_count": 397,
     "created_at": "2023-11-25T13:03:00Z",
     "updated_at": "2023-11-25T13:03:07Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-rc2/Godot_v4.2-rc2_mono_linux_x86_64.zip"
@@ -309,7 +309,7 @@
     "state": "uploaded",
     "size": 29150196,
     "digest": null,
-    "download_count": 169,
+    "download_count": 171,
     "created_at": "2023-11-25T12:59:30Z",
     "updated_at": "2023-11-25T12:59:37Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-rc2/Godot_v4.2-rc2_web_editor.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 49243182,
     "digest": null,
-    "download_count": 154,
+    "download_count": 157,
     "created_at": "2023-11-25T12:59:37Z",
     "updated_at": "2023-11-25T12:59:46Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.2-rc2/Godot_v4.2-rc2_win32.exe.zip"
