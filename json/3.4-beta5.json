@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 36834104,
     "digest": null,
-    "download_count": 139,
+    "download_count": 140,
     "created_at": "2023-09-19T18:58:43Z",
     "updated_at": "2023-09-19T18:58:46Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta5/Godot_v3.4-beta5_win64.exe.zip"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 40567674,
     "digest": null,
-    "download_count": 60,
+    "download_count": 62,
     "created_at": "2023-09-19T18:59:00Z",
     "updated_at": "2023-09-19T18:59:03Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta5/godot-lib.3.4.beta5.release.aar"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 67796972,
     "digest": null,
-    "download_count": 121,
+    "download_count": 122,
     "created_at": "2023-09-19T18:59:43Z",
     "updated_at": "2023-09-19T18:59:47Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta5/Godot_v3.4-beta5_mono_linux_headless_64.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 19443314,
     "digest": null,
-    "download_count": 120,
+    "download_count": 121,
     "created_at": "2023-09-19T18:59:48Z",
     "updated_at": "2023-09-19T18:59:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta5/Godot_v3.4-beta5_mono_linux_server_64.zip"
@@ -309,7 +309,7 @@
     "state": "uploaded",
     "size": 64590082,
     "digest": null,
-    "download_count": 120,
+    "download_count": 121,
     "created_at": "2023-09-19T19:00:09Z",
     "updated_at": "2023-09-19T19:00:13Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta5/Godot_v3.4-beta5_mono_x11_32.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 70679002,
     "digest": null,
-    "download_count": 126,
+    "download_count": 127,
     "created_at": "2023-09-19T19:00:14Z",
     "updated_at": "2023-09-19T19:00:19Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta5/Godot_v3.4-beta5_mono_x11_64.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 53390875,
     "digest": null,
-    "download_count": 49,
+    "download_count": 50,
     "created_at": "2023-09-19T19:00:20Z",
     "updated_at": "2023-09-19T19:00:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.4-beta5/godot-lib.3.4.beta5.mono.release.aar"
