@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 48109815,
     "digest": "sha256:f95a934fdab8c322bb2065ed457b2758cd1a21efe15aee9c4efe93f2c230e0e6",
-    "download_count": 106,
+    "download_count": 108,
     "created_at": "2025-10-31T21:07:43Z",
     "updated_at": "2025-10-31T21:07:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.7-dev1/godot-lib.3.7.dev1.release.aar"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 58989445,
     "digest": "sha256:368c38c432118b8a0ef9d5c3478b81b8d34476383b21ef1ad49680c7610e5c8f",
-    "download_count": 1546,
+    "download_count": 1548,
     "created_at": "2025-10-29T09:42:37Z",
     "updated_at": "2025-10-29T09:42:45Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.7-dev1/Godot_v3.7-dev1_mono_win32.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 67718061,
     "digest": "sha256:1a81f71243dd2bcd153636d3fc02194372f993748137bc4e67e40aa44a2a80d7",
-    "download_count": 1628,
+    "download_count": 1632,
     "created_at": "2025-10-29T09:43:07Z",
     "updated_at": "2025-10-29T09:43:16Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.7-dev1/Godot_v3.7-dev1_mono_x11_64.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 36155488,
     "digest": "sha256:7fb94021649ac8f90002ac91cb3828b78f3f66be3bed3a71f0382211b3638b88",
-    "download_count": 2684,
+    "download_count": 2688,
     "created_at": "2025-10-29T09:40:11Z",
     "updated_at": "2025-10-29T09:40:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.7-dev1/Godot_v3.7-dev1_win64.exe.zip"
