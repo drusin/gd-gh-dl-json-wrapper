@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 647969079,
     "digest": "sha256:ead805121c1cd29a17990847d9c8c2ff056e6eaf2a0a082726e2181c8412a830",
-    "download_count": 606,
+    "download_count": 610,
     "created_at": "2025-12-02T00:49:46Z",
     "updated_at": "2025-12-02T00:51:13Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev5/Godot_v4.6-dev5_android_editor.apk"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 158881947,
     "digest": "sha256:03188b1879826e05bf922f9daf2d89939c879530b0c806d6d713034727d1af73",
-    "download_count": 63,
+    "download_count": 64,
     "created_at": "2025-12-02T00:51:14Z",
     "updated_at": "2025-12-02T00:51:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev5/Godot_v4.6-dev5_android_editor_horizonos.apk"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 70423972,
     "digest": "sha256:6014c1a309ece5ea30488a3bcb020bb188ba76a7be52f12c21d4db52f22fd161",
-    "download_count": 1673,
+    "download_count": 1674,
     "created_at": "2025-12-02T00:55:16Z",
     "updated_at": "2025-12-02T00:55:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev5/Godot_v4.6-dev5_linux.x86_64.zip"
