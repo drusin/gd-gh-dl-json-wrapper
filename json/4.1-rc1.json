@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 76406921,
     "digest": null,
-    "download_count": 64,
+    "download_count": 65,
     "created_at": "2023-09-19T14:55:53Z",
     "updated_at": "2023-09-19T14:55:58Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1-rc1/godot-lib.4.1.rc1.template_release.aar"
@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 208264159,
     "digest": null,
-    "download_count": 149,
+    "download_count": 150,
     "created_at": "2023-09-19T14:53:58Z",
     "updated_at": "2023-09-19T14:54:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1-rc1/Godot_v4.1-rc1_android_editor.apk"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 104125981,
     "digest": null,
-    "download_count": 138,
+    "download_count": 139,
     "created_at": "2023-09-19T14:55:22Z",
     "updated_at": "2023-09-19T14:55:28Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1-rc1/Godot_v4.1-rc1_macos.universal.zip"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 55056792,
     "digest": null,
-    "download_count": 122,
+    "download_count": 123,
     "created_at": "2023-09-19T14:56:21Z",
     "updated_at": "2023-09-19T14:56:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1-rc1/Godot_v4.1-rc1_mono_linux_x86_32.zip"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 112382280,
     "digest": null,
-    "download_count": 136,
+    "download_count": 137,
     "created_at": "2023-09-19T14:56:30Z",
     "updated_at": "2023-09-19T14:56:37Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1-rc1/Godot_v4.1-rc1_mono_macos.universal.zip"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 57360091,
     "digest": null,
-    "download_count": 128,
+    "download_count": 129,
     "created_at": "2023-09-19T14:56:38Z",
     "updated_at": "2023-09-19T14:56:42Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1-rc1/Godot_v4.1-rc1_mono_win32.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 25881342,
     "digest": null,
-    "download_count": 124,
+    "download_count": 125,
     "created_at": "2023-09-19T14:55:29Z",
     "updated_at": "2023-09-19T14:55:31Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.1-rc1/Godot_v4.1-rc1_web_editor.zip"
