@@ -9,7 +9,7 @@
     "state": "uploaded",
     "size": 42805172,
     "digest": "sha256:129b70767200c7944be9395be44e2149675d50c7a369bdd99126be420af5359c",
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2025-09-30T15:05:50Z",
     "updated_at": "2025-09-30T15:05:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/godot-4.6-dev1.tar.xz"
@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100969554,
     "digest": "sha256:2095bacb2168e91881b3a1c7e0be9e61933e25b8f8b7d11b6b139c41df623b59",
-    "download_count": 112,
+    "download_count": 114,
     "created_at": "2025-09-30T15:05:59Z",
     "updated_at": "2025-09-30T15:06:15Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/godot-lib.4.6.dev1.template_release.aar"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 166497153,
     "digest": "sha256:5ee0974732c05f4030a01864971b6cefdbcd58396eb1397a9fe28980fe9d3906",
-    "download_count": 113,
+    "download_count": 114,
     "created_at": "2025-09-30T15:13:44Z",
     "updated_at": "2025-09-30T15:14:06Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/Godot_v4.6-dev1_android_editor_picoos.apk"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 1356864483,
     "digest": "sha256:5fa1c07f15a219a9b22826ee47fbfbad92b2b4711bf49a32793f090353d74b26",
-    "download_count": 1602,
+    "download_count": 1603,
     "created_at": "2025-09-30T15:14:08Z",
     "updated_at": "2025-09-30T15:17:10Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/Godot_v4.6-dev1_export_templates.tpz"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 97774327,
     "digest": "sha256:f40009c12ce87de0e557e42becee91588114cc3317a01b81c285ead01887bca3",
-    "download_count": 102,
+    "download_count": 103,
     "created_at": "2025-09-30T15:22:37Z",
     "updated_at": "2025-09-30T15:22:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/Godot_v4.6-dev1_mono_linux_x86_32.zip"
