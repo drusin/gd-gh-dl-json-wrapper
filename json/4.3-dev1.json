@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 897402515,
     "digest": null,
-    "download_count": 576,
+    "download_count": 580,
     "created_at": "2023-12-21T12:56:13Z",
     "updated_at": "2023-12-21T12:58:14Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev1/Godot_v4.3-dev1_export_templates.tpz"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 41603484,
     "digest": null,
-    "download_count": 136,
+    "download_count": 138,
     "created_at": "2023-12-21T12:58:15Z",
     "updated_at": "2023-12-21T12:58:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev1/Godot_v4.3-dev1_linux.arm32.zip"
@@ -174,7 +174,7 @@
     "state": "uploaded",
     "size": 94678372,
     "digest": null,
-    "download_count": 567,
+    "download_count": 569,
     "created_at": "2023-12-21T12:58:43Z",
     "updated_at": "2023-12-21T12:58:55Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev1/Godot_v4.3-dev1_macos.universal.zip"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 51550802,
     "digest": null,
-    "download_count": 132,
+    "download_count": 134,
     "created_at": "2023-12-21T13:02:30Z",
     "updated_at": "2023-12-21T13:02:41Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev1/Godot_v4.3-dev1_mono_linux_arm32.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 54457283,
     "digest": null,
-    "download_count": 147,
+    "download_count": 149,
     "created_at": "2023-12-21T13:02:42Z",
     "updated_at": "2023-12-21T13:02:56Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev1/Godot_v4.3-dev1_mono_linux_arm64.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 58795115,
     "digest": null,
-    "download_count": 1184,
+    "download_count": 1185,
     "created_at": "2023-12-21T13:03:56Z",
     "updated_at": "2023-12-21T13:04:08Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-dev1/Godot_v4.3-dev1_mono_win64.zip"
