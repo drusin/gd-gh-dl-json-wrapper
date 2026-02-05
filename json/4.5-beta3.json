@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 100879785,
     "digest": "sha256:15d5f4f21e872b7e5072414a440d0ace71e0bbfb523f441a4bb22f0f6a3cf3f6",
-    "download_count": 3,
+    "download_count": 4,
     "created_at": "2025-07-08T16:18:10Z",
     "updated_at": "2025-07-08T16:18:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta3/godot-lib.4.5.beta3.mono.template_release.aar"
@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100527534,
     "digest": "sha256:5e3e0b99f51df92bde37965ce7dea4c7a8a21118d9f87d6c9fd13227fbdfcdc6",
-    "download_count": 157,
+    "download_count": 159,
     "created_at": "2025-07-08T16:10:30Z",
     "updated_at": "2025-07-08T16:10:44Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta3/godot-lib.4.5.beta3.template_release.aar"
@@ -414,7 +414,7 @@
     "state": "uploaded",
     "size": 4496,
     "digest": "sha256:d5757c9a1ef8b363dd5c354832c097eb890d16391f8677b2df34f5887abbd70c",
-    "download_count": 2011,
+    "download_count": 2012,
     "created_at": "2025-07-08T16:23:22Z",
     "updated_at": "2025-07-08T16:23:22Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-beta3/SHA512-SUMS.txt"
