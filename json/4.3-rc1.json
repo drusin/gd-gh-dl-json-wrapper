@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 193692960,
     "digest": null,
-    "download_count": 571,
+    "download_count": 572,
     "created_at": "2024-07-25T17:25:13Z",
     "updated_at": "2024-07-25T17:25:38Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_android_editor.apk"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 47870198,
     "digest": null,
-    "download_count": 149,
+    "download_count": 150,
     "created_at": "2024-07-25T17:27:58Z",
     "updated_at": "2024-07-25T17:28:05Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_linux.arm64.zip"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 48762647,
     "digest": null,
-    "download_count": 108,
+    "download_count": 109,
     "created_at": "2024-07-25T17:28:06Z",
     "updated_at": "2024-07-25T17:28:13Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_linux.x86_32.zip"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 48798957,
     "digest": null,
-    "download_count": 1627,
+    "download_count": 1629,
     "created_at": "2024-07-25T17:28:13Z",
     "updated_at": "2024-07-25T17:28:20Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_linux.x86_64.zip"
@@ -174,7 +174,7 @@
     "state": "uploaded",
     "size": 101861246,
     "digest": null,
-    "download_count": 986,
+    "download_count": 988,
     "created_at": "2024-07-25T17:28:21Z",
     "updated_at": "2024-07-25T17:28:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_macos.universal.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 69167006,
     "digest": null,
-    "download_count": 562,
+    "download_count": 563,
     "created_at": "2024-07-25T17:31:51Z",
     "updated_at": "2024-07-25T17:32:00Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_mono_linux_x86_64.zip"
@@ -264,7 +264,7 @@
     "state": "uploaded",
     "size": 122483010,
     "digest": null,
-    "download_count": 433,
+    "download_count": 437,
     "created_at": "2024-07-25T17:32:01Z",
     "updated_at": "2024-07-25T17:32:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_mono_macos.universal.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 77049598,
     "digest": null,
-    "download_count": 1938,
+    "download_count": 1939,
     "created_at": "2024-07-25T17:32:29Z",
     "updated_at": "2024-07-25T17:32:40Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_mono_win64.zip"
@@ -309,7 +309,7 @@
     "state": "uploaded",
     "size": 73166372,
     "digest": null,
-    "download_count": 283,
+    "download_count": 284,
     "created_at": "2024-07-25T17:32:41Z",
     "updated_at": "2024-07-25T17:32:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_mono_windows_arm64.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 28848878,
     "digest": null,
-    "download_count": 243,
+    "download_count": 244,
     "created_at": "2024-07-25T17:28:35Z",
     "updated_at": "2024-07-25T17:28:39Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_web_editor.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 57321215,
     "digest": null,
-    "download_count": 156,
+    "download_count": 157,
     "created_at": "2024-07-25T17:28:40Z",
     "updated_at": "2024-07-25T17:28:47Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_win32.exe.zip"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 55884652,
     "digest": null,
-    "download_count": 5171,
+    "download_count": 5174,
     "created_at": "2024-07-25T17:28:48Z",
     "updated_at": "2024-07-25T17:28:55Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_win64.exe.zip"
@@ -369,7 +369,7 @@
     "state": "uploaded",
     "size": 52054865,
     "digest": null,
-    "download_count": 421,
+    "download_count": 422,
     "created_at": "2024-07-25T17:28:56Z",
     "updated_at": "2024-07-25T17:29:03Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc1/Godot_v4.3-rc1_windows_arm64.exe.zip"
