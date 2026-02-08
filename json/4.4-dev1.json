@@ -24,7 +24,7 @@
     "state": "uploaded",
     "size": 88,
     "digest": null,
-    "download_count": 13,
+    "download_count": 14,
     "created_at": "2024-08-26T08:17:28Z",
     "updated_at": "2024-08-26T08:17:29Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-dev1/godot-4.4-dev1.tar.xz.sha256"
@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 91540425,
     "digest": null,
-    "download_count": 112,
+    "download_count": 113,
     "created_at": "2024-08-26T08:17:29Z",
     "updated_at": "2024-08-26T08:17:41Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-dev1/godot-lib.4.4.dev1.template_release.aar"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 1011593045,
     "digest": null,
-    "download_count": 394,
+    "download_count": 395,
     "created_at": "2024-08-26T08:22:27Z",
     "updated_at": "2024-08-26T08:24:37Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-dev1/Godot_v4.4-dev1_mono_export_templates.tpz"
