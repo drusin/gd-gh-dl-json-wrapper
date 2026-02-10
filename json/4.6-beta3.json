@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100285322,
     "digest": "sha256:65f4e31c9f64a8f0252b08c76d0dae265283a7cb244dcb04da51bee99225b37c",
-    "download_count": 58,
+    "download_count": 59,
     "created_at": "2026-01-07T15:55:07Z",
     "updated_at": "2026-01-07T15:55:22Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta3/godot-lib.4.6.beta3.template_release.aar"
@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 1262554559,
     "digest": "sha256:3403239acde0c66784960ec44bc0ce5c809a2dd08a0151dd83322c09ba4df791",
-    "download_count": 3,
+    "download_count": 4,
     "created_at": "2026-01-07T15:55:23Z",
     "updated_at": "2026-01-07T15:58:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta3/Godot_native_debug_symbols.4.6.beta3.editor.android.zip"
@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 766012441,
     "digest": "sha256:7f4010449bc3cfa08c13552231f0f74a1812c8846003e988c2cee6146768cce5",
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2026-01-07T15:58:13Z",
     "updated_at": "2026-01-07T15:59:55Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta3/Godot_native_debug_symbols.4.6.beta3.template_release.android.zip"
@@ -174,7 +174,7 @@
     "state": "uploaded",
     "size": 67313326,
     "digest": "sha256:2315e82c79f7edd9a4c503d95ebf7edf11a11760ccd401d056e1038624fdb59a",
-    "download_count": 35,
+    "download_count": 36,
     "created_at": "2026-01-07T16:05:33Z",
     "updated_at": "2026-01-07T16:05:43Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta3/Godot_v4.6-beta3_linux.arm32.zip"
