@@ -9,7 +9,7 @@
     "state": "uploaded",
     "size": 43962768,
     "digest": "sha256:30db8598f760f37433dc9c9d2501c251f5ab8a56263536ffe571c1038b34037b",
-    "download_count": 7,
+    "download_count": 8,
     "created_at": "2026-01-14T13:02:47Z",
     "updated_at": "2026-01-14T13:02:53Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc1/godot-4.6-rc1.tar.xz"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 1251438647,
     "digest": "sha256:7a8d906d9a912d1d548d57069a450c62bfa6b0894f341bf9912cd891885be279",
-    "download_count": 41,
+    "download_count": 42,
     "created_at": "2026-01-14T13:10:42Z",
     "updated_at": "2026-01-14T13:13:27Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc1/Godot_v4.6-rc1_export_templates.tpz"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 70903066,
     "digest": "sha256:9682049e9be406fb0dd1f29cff01dd80b49081f40587577743f05bfcf3f3b004",
-    "download_count": 570,
+    "download_count": 571,
     "created_at": "2026-01-14T13:13:49Z",
     "updated_at": "2026-01-14T13:13:59Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc1/Godot_v4.6-rc1_linux.x86_32.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 99299169,
     "digest": "sha256:b1c7cba5d37885144c24488167218a3d11337489124f20f405dd7981016869db",
-    "download_count": 547,
+    "download_count": 548,
     "created_at": "2026-01-14T13:18:30Z",
     "updated_at": "2026-01-14T13:18:44Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc1/Godot_v4.6-rc1_mono_linux_arm64.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 110726750,
     "digest": "sha256:a7d0fcfc7518a6bc636bb28a416a9301b41a1106b4b80f96889817bf285e78f1",
-    "download_count": 557,
+    "download_count": 558,
     "created_at": "2026-01-14T13:19:42Z",
     "updated_at": "2026-01-14T13:19:58Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc1/Godot_v4.6-rc1_mono_win32.zip"
