@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 1265335285,
     "digest": "sha256:6eb3fb8be3f9f587674694ae764657a4d610f36609e96e267fa39c7708726fd8",
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2026-01-14T13:03:10Z",
     "updated_at": "2026-01-14T13:06:01Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc1/Godot_native_debug_symbols.4.6.rc1.editor.android.zip"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 303772072,
     "digest": "sha256:c205bafabf49709c5f05024c71cf1c5da49d7bbe8f725dd40214248cf8424269",
-    "download_count": 0,
+    "download_count": 1,
     "created_at": "2026-01-14T13:07:44Z",
     "updated_at": "2026-01-14T13:08:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc1/Godot_v4.6-rc1_android_editor.aab"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 652163853,
     "digest": "sha256:dafa1a2382ac174c72ebe4016cc0e825f404c738015bbf8a28ed5c6b24c1e870",
-    "download_count": 11,
+    "download_count": 12,
     "created_at": "2026-01-14T13:08:26Z",
     "updated_at": "2026-01-14T13:09:54Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc1/Godot_v4.6-rc1_android_editor.apk"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 1170994569,
     "digest": "sha256:3e2e466dd9c606ed6b792979b913450ecf6973358f85c8174aa4a3c173b9d341",
-    "download_count": 18,
+    "download_count": 19,
     "created_at": "2026-01-14T13:15:33Z",
     "updated_at": "2026-01-14T13:18:14Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc1/Godot_v4.6-rc1_mono_export_templates.tpz"
@@ -384,7 +384,7 @@
     "state": "uploaded",
     "size": 47920719,
     "digest": "sha256:b35da280fbe87acf9070a0ef7137a6a154b409d794d4d9bf4a0113783ba73f66",
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2026-01-14T13:14:34Z",
     "updated_at": "2026-01-14T13:14:41Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc1/Godot_v4.6-rc1_web_editor.zip"
