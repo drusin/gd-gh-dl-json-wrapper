@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100337236,
     "digest": "sha256:ae3bf8edd23d3320442a80cf2daa889fbafd849db442d204f8cfd3c179d83ca6",
-    "download_count": 41,
+    "download_count": 42,
     "created_at": "2026-03-20T21:25:58Z",
     "updated_at": "2026-03-20T21:26:13Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6.2-rc2/godot-lib.4.6.2.rc2.template_release.aar"
@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 1268113036,
     "digest": "sha256:26a0132ca3f413b5ef57f3819f0e5fedc4dfe2982018bb7204030c02fb745a0d",
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2026-03-20T21:26:13Z",
     "updated_at": "2026-03-20T21:29:11Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6.2-rc2/Godot_native_debug_symbols.4.6.2.rc2.editor.android.zip"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 306168422,
     "digest": "sha256:831488a0a0016acd5d6f031a001b95fce2128b66bf2ddccd681fa3186ff34b2b",
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2026-03-20T21:30:57Z",
     "updated_at": "2026-03-20T21:31:37Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6.2-rc2/Godot_v4.6.2-rc2_android_editor.aab"
