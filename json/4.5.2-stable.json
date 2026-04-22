@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 1241275342,
     "digest": "sha256:bf7af01192947863bf91497d0f3a074a530151155f53196d7fbdb99b22824bdd",
-    "download_count": 3,
+    "download_count": 4,
     "created_at": "2026-03-19T14:14:20Z",
     "updated_at": "2026-03-19T14:17:13Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.2-stable/Godot_native_debug_symbols.4.5.2.stable.editor.android.zip"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 1353063159,
     "digest": "sha256:ea50e5183f057d42b22120d0d0340205b98f51f8ff13c33c70fd4ac9077d2019",
-    "download_count": 645,
+    "download_count": 646,
     "created_at": "2026-03-19T14:22:04Z",
     "updated_at": "2026-03-19T14:25:06Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.2-stable/Godot_v4.5.2-stable_export_templates.tpz"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 101231941,
     "digest": "sha256:1d7062418ae29cbd29f5f1ad95e6f13f8ac6cb2d6effd673d3be1b3398380887",
-    "download_count": 534,
+    "download_count": 536,
     "created_at": "2026-03-19T14:32:01Z",
     "updated_at": "2026-03-19T14:32:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.2-stable/Godot_v4.5.2-stable_mono_win64.zip"
@@ -414,7 +414,7 @@
     "state": "uploaded",
     "size": 77480943,
     "digest": "sha256:3766090865330ab2a0ed33594520394b711c620b1378f9223904faeef60f2f14",
-    "download_count": 661,
+    "download_count": 662,
     "created_at": "2026-03-19T14:26:35Z",
     "updated_at": "2026-03-19T14:26:47Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.2-stable/Godot_v4.5.2-stable_win64.exe.zip"
