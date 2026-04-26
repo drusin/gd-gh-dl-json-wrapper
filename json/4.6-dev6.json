@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100102842,
     "digest": "sha256:e0d7955c1778511ae6dbf377c9c3be03daaedd731319b27fbca499bc0f679b2c",
-    "download_count": 124,
+    "download_count": 125,
     "created_at": "2025-12-05T22:04:01Z",
     "updated_at": "2025-12-05T22:04:14Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/godot-lib.4.6.dev6.template_release.aar"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 1164954742,
     "digest": "sha256:5ff7637c0923cfa90dd128043c1d0997b1d65dc312d508fbb0442d75f640a790",
-    "download_count": 393,
+    "download_count": 397,
     "created_at": "2025-12-05T22:16:22Z",
     "updated_at": "2025-12-05T22:18:53Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/Godot_v4.6-dev6_mono_export_templates.tpz"
@@ -384,7 +384,7 @@
     "state": "uploaded",
     "size": 47371253,
     "digest": "sha256:b66037e6b51e712a6c84365c05fa9571223054f6f767038f553995fc5e16b8ac",
-    "download_count": 146,
+    "download_count": 147,
     "created_at": "2025-12-05T22:15:25Z",
     "updated_at": "2025-12-05T22:15:32Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/Godot_v4.6-dev6_web_editor.zip"
