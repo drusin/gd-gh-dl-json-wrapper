@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 108953413,
     "digest": "sha256:5828f43ed1248dfedc0877fb2d49f887bca32ead13b4a56daa2941b4ab193039",
-    "download_count": 1900,
+    "download_count": 1901,
     "created_at": "2025-06-25T12:18:15Z",
     "updated_at": "2025-06-25T12:18:31Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.1-stable/Godot_v3.6.1-stable_android_editor.apk"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 18583627,
     "digest": "sha256:326f31072e93f6214d2517e262764cc5b4a46c678b097a7d81313ba4051730fa",
-    "download_count": 188,
+    "download_count": 191,
     "created_at": "2025-06-25T12:22:22Z",
     "updated_at": "2025-06-25T12:22:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.1-stable/Godot_v3.6.1-stable_mono_linux_server_64.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 90719821,
     "digest": "sha256:07e2750ef06abeaeb991299bd05d99122afa78487fbb0790f53d2c1d3cc32d07",
-    "download_count": 446,
+    "download_count": 447,
     "created_at": "2025-06-25T12:22:26Z",
     "updated_at": "2025-06-25T12:22:38Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.1-stable/Godot_v3.6.1-stable_mono_osx.universal.zip"
