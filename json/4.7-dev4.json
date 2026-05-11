@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 101663399,
     "digest": "sha256:8546ebcff074500687acca7bb26bb5f4fb395d69110ed8308361fa73866cb15a",
-    "download_count": 92,
+    "download_count": 93,
     "created_at": "2026-04-09T17:03:40Z",
     "updated_at": "2026-04-09T17:04:02Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-dev4/godot-lib.4.7.dev4.template_release.aar"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 668997739,
     "digest": "sha256:abad474247501e8b185e61ec0ee5b3ca353dc73a94556206da711718b5c0ed0b",
-    "download_count": 10,
+    "download_count": 11,
     "created_at": "2026-04-09T17:09:44Z",
     "updated_at": "2026-04-09T17:11:19Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-dev4/Godot_v4.7-dev4_android_editor.apk"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 169818059,
     "digest": "sha256:6fa51be93a4457d6e9d5b486a5b6a567dea4382ac9c399ccd4a37b52bf71aceb",
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2026-04-09T17:11:20Z",
     "updated_at": "2026-04-09T17:11:45Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-dev4/Godot_v4.7-dev4_android_editor_horizonos.apk"
@@ -174,7 +174,7 @@
     "state": "uploaded",
     "size": 68840882,
     "digest": "sha256:83e7021b8b680c2802b6fd284329e76aca986f141a767039c343a47e8cc4f449",
-    "download_count": 3,
+    "download_count": 4,
     "created_at": "2026-04-09T17:15:08Z",
     "updated_at": "2026-04-09T17:15:19Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-dev4/Godot_v4.7-dev4_linux.arm32.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 100766218,
     "digest": "sha256:b2686a2b51b2191901f4fef3409e465b90b3a8e2c9a1688b5631e28eed9f55a6",
-    "download_count": 954,
+    "download_count": 955,
     "created_at": "2026-04-09T17:20:25Z",
     "updated_at": "2026-04-09T17:20:39Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-dev4/Godot_v4.7-dev4_mono_linux_arm64.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 101746406,
     "digest": "sha256:da60f08385cebee31aea70ee0b9fd0cef34387f9566800a1aa177c3c62ce1a27",
-    "download_count": 954,
+    "download_count": 955,
     "created_at": "2026-04-09T17:20:40Z",
     "updated_at": "2026-04-09T17:20:55Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-dev4/Godot_v4.7-dev4_mono_linux_x86_32.zip"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 110470886,
     "digest": "sha256:e456dc4182927a70d47a6180c126b58cc0c76390306c7c55d32eae9366d1cbfc",
-    "download_count": 993,
+    "download_count": 994,
     "created_at": "2026-04-09T17:22:00Z",
     "updated_at": "2026-04-09T17:22:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-dev4/Godot_v4.7-dev4_mono_win64.zip"
@@ -384,7 +384,7 @@
     "state": "uploaded",
     "size": 48823091,
     "digest": "sha256:282909cfee539ea42bfb99fd6af093dd9863f360b56bae179511a9ac95c81808",
-    "download_count": 4,
+    "download_count": 5,
     "created_at": "2026-04-09T17:16:17Z",
     "updated_at": "2026-04-09T17:16:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-dev4/Godot_v4.7-dev4_web_editor.zip"
