@@ -9,7 +9,7 @@
     "state": "uploaded",
     "size": 43602908,
     "digest": "sha256:c5c9153c26bbecf85006c78ccb9d9fbcfdabc915c4ea50bfcccff94b547ec5c2",
-    "download_count": 66,
+    "download_count": 67,
     "created_at": "2025-12-05T22:03:52Z",
     "updated_at": "2025-12-05T22:03:59Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/godot-4.6-dev6.tar.xz"
@@ -24,7 +24,7 @@
     "state": "uploaded",
     "size": 88,
     "digest": "sha256:0a7cc172ca9bbb1aa062ac7828b23e416142024b05f2af868c107208e21a740b",
-    "download_count": 9,
+    "download_count": 10,
     "created_at": "2025-12-05T22:04:00Z",
     "updated_at": "2025-12-05T22:04:00Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/godot-4.6-dev6.tar.xz.sha256"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 648444685,
     "digest": "sha256:cf36cb4387efd8940f4a89342b5a295a123f4c66c9996369eeba90fce8b2c3c8",
-    "download_count": 391,
+    "download_count": 394,
     "created_at": "2025-12-05T22:09:26Z",
     "updated_at": "2025-12-05T22:10:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/Godot_v4.6-dev6_android_editor.apk"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 166409454,
     "digest": "sha256:bee1d26e997e897bdf7b48bba3d6a1e100d617a33f68062df830e9020e6a3891",
-    "download_count": 23,
+    "download_count": 24,
     "created_at": "2025-12-05T22:11:13Z",
     "updated_at": "2025-12-05T22:11:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/Godot_v4.6-dev6_android_editor_picoos.apk"
