@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 136985843,
     "digest": null,
-    "download_count": 19583,
+    "download_count": 19587,
     "created_at": "2023-09-19T12:34:13Z",
     "updated_at": "2023-09-19T12:34:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_android_editor.apk"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 576112811,
     "digest": null,
-    "download_count": 8990,
+    "download_count": 9002,
     "created_at": "2023-09-19T12:34:26Z",
     "updated_at": "2023-09-19T12:35:03Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_export_templates.tpz"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 660380260,
     "digest": null,
-    "download_count": 1142,
+    "download_count": 1143,
     "created_at": "2023-09-19T12:35:46Z",
     "updated_at": "2023-09-19T12:36:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_mono_export_templates.tpz"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 66476119,
     "digest": null,
-    "download_count": 7354,
+    "download_count": 7359,
     "created_at": "2023-09-19T12:36:57Z",
     "updated_at": "2023-09-19T12:37:01Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_mono_win64.zip"
@@ -264,7 +264,7 @@
     "state": "uploaded",
     "size": 72316848,
     "digest": null,
-    "download_count": 1121,
+    "download_count": 1122,
     "created_at": "2023-09-19T12:37:08Z",
     "updated_at": "2023-09-19T12:37:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_mono_x11_64.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 68945391,
     "digest": null,
-    "download_count": 4098,
+    "download_count": 4100,
     "created_at": "2023-09-19T12:35:12Z",
     "updated_at": "2023-09-19T12:35:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_osx.universal.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 16016149,
     "digest": null,
-    "download_count": 2475,
+    "download_count": 2477,
     "created_at": "2023-09-19T12:35:18Z",
     "updated_at": "2023-09-19T12:35:19Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_web_editor.zip"
@@ -309,7 +309,7 @@
     "state": "uploaded",
     "size": 32586796,
     "digest": null,
-    "download_count": 3728,
+    "download_count": 3734,
     "created_at": "2023-09-19T12:35:20Z",
     "updated_at": "2023-09-19T12:35:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_win32.exe.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 37924633,
     "digest": null,
-    "download_count": 82991,
+    "download_count": 83083,
     "created_at": "2023-09-19T12:35:24Z",
     "updated_at": "2023-09-19T12:35:27Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_win64.exe.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 33112499,
     "digest": null,
-    "download_count": 469,
+    "download_count": 470,
     "created_at": "2023-09-19T12:35:28Z",
     "updated_at": "2023-09-19T12:35:31Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_x11.32.zip"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 39531508,
     "digest": null,
-    "download_count": 6164,
+    "download_count": 6170,
     "created_at": "2023-09-19T12:35:32Z",
     "updated_at": "2023-09-19T12:35:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_x11.64.zip"
