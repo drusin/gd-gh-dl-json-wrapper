@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 1278468402,
     "digest": "sha256:ed68902ed09fc034f03935b42a8bc7fa79414111ce0e772a5738522f96004a73",
-    "download_count": 279,
+    "download_count": 301,
     "created_at": "2026-04-24T18:34:46Z",
     "updated_at": "2026-04-24T18:37:49Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta1/Godot_v4.7-beta1_export_templates.tpz"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 72365611,
     "digest": "sha256:1d9474c63cf3e6c9785a60a22289f0be807dfba341d11f4c70e9e50858ddc8bc",
-    "download_count": 1037,
+    "download_count": 1079,
     "created_at": "2026-04-24T18:38:31Z",
     "updated_at": "2026-04-24T18:38:41Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta1/Godot_v4.7-beta1_linux.x86_64.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 159381676,
     "digest": "sha256:44a51eec229855f6bec6cf1756597bae1fc690b42e695f96a37ea7e0f3aad2d0",
-    "download_count": 709,
+    "download_count": 723,
     "created_at": "2026-04-24T18:38:42Z",
     "updated_at": "2026-04-24T18:39:06Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta1/Godot_v4.7-beta1_macos.universal.zip"
@@ -474,7 +474,7 @@
     "state": "uploaded",
     "size": 80418138,
     "digest": "sha256:2ccdc48422917b4c6036bf39ac61d734ce3a75c4951ca1517bfe7e6d42acdab2",
-    "download_count": 941,
+    "download_count": 961,
     "created_at": "2026-04-24T18:39:36Z",
     "updated_at": "2026-04-24T18:39:47Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta1/Godot_v4.7-beta1_win64.exe.zip"
