@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 158980717,
     "digest": "sha256:5281aa7c6bb2e00c277b3ee68c0f8c778c13e17e0c04462315a30504cb4ba96c",
-    "download_count": 27,
+    "download_count": 28,
     "created_at": "2025-12-05T22:10:51Z",
     "updated_at": "2025-12-05T22:11:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/Godot_v4.6-dev6_android_editor_horizonos.apk"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 109305955,
     "digest": "sha256:31e2e8154cb63db7e02ac6d5b9ed336be8ba3286191b5bb23f9bd40301f62e84",
-    "download_count": 1526,
+    "download_count": 1527,
     "created_at": "2025-12-05T22:20:18Z",
     "updated_at": "2025-12-05T22:20:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/Godot_v4.6-dev6_mono_win32.zip"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 107157144,
     "digest": "sha256:34f1ab1dfbda6a8f0bd474a6d794ece547db414fad51cec3a6c4ad43f644ff2a",
-    "download_count": 2486,
+    "download_count": 2488,
     "created_at": "2025-12-05T22:20:34Z",
     "updated_at": "2025-12-05T22:20:48Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/Godot_v4.6-dev6_mono_win64.zip"
@@ -369,7 +369,7 @@
     "state": "uploaded",
     "size": 106022420,
     "digest": "sha256:51bc749efd2217313183598f94c73096d014a4a42d15c3aa6626e422cee4c16d",
-    "download_count": 1545,
+    "download_count": 1546,
     "created_at": "2025-12-05T22:20:49Z",
     "updated_at": "2025-12-05T22:21:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev6/Godot_v4.6-dev6_mono_windows_arm64.zip"
