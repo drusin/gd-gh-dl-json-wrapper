@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 1205251984,
     "digest": null,
-    "download_count": 24623,
+    "download_count": 24624,
     "created_at": "2025-03-03T14:57:09Z",
     "updated_at": "2025-03-03T14:59:54Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-stable/Godot_v4.4-stable_export_templates.tpz"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 60551263,
     "digest": null,
-    "download_count": 33461,
+    "download_count": 33834,
     "created_at": "2025-03-03T15:00:24Z",
     "updated_at": "2025-03-03T15:00:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-stable/Godot_v4.4-stable_linux.x86_64.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 1122297771,
     "digest": null,
-    "download_count": 4676,
+    "download_count": 4677,
     "created_at": "2025-03-03T15:01:44Z",
     "updated_at": "2025-03-03T15:04:14Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-stable/Godot_v4.4-stable_mono_export_templates.tpz"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 82561325,
     "digest": null,
-    "download_count": 5957,
+    "download_count": 5959,
     "created_at": "2025-03-03T15:04:52Z",
     "updated_at": "2025-03-03T15:05:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-stable/Godot_v4.4-stable_mono_linux_x86_64.zip"
@@ -369,7 +369,7 @@
     "state": "uploaded",
     "size": 69357449,
     "digest": null,
-    "download_count": 404,
+    "download_count": 405,
     "created_at": "2025-03-03T15:00:58Z",
     "updated_at": "2025-03-03T15:01:08Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-stable/Godot_v4.4-stable_win32.exe.zip"
@@ -384,7 +384,7 @@
     "state": "uploaded",
     "size": 67437800,
     "digest": null,
-    "download_count": 62612,
+    "download_count": 62613,
     "created_at": "2025-03-03T15:01:08Z",
     "updated_at": "2025-03-03T15:01:18Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-stable/Godot_v4.4-stable_win64.exe.zip"
@@ -414,7 +414,7 @@
     "state": "uploaded",
     "size": 4523,
     "digest": null,
-    "download_count": 119,
+    "download_count": 120,
     "created_at": "2025-03-03T15:06:06Z",
     "updated_at": "2025-03-03T15:06:06Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.4-stable/SHA512-SUMS.txt"
