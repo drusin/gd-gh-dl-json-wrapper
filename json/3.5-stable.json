@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 136985843,
     "digest": null,
-    "download_count": 21247,
+    "download_count": 21290,
     "created_at": "2023-09-19T12:34:13Z",
     "updated_at": "2023-09-19T12:34:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_android_editor.apk"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 576112811,
     "digest": null,
-    "download_count": 10691,
+    "download_count": 10712,
     "created_at": "2023-09-19T12:34:26Z",
     "updated_at": "2023-09-19T12:35:03Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_export_templates.tpz"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 36789424,
     "digest": null,
-    "download_count": 1568,
+    "download_count": 1570,
     "created_at": "2023-09-19T12:35:04Z",
     "updated_at": "2023-09-19T12:35:07Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_linux_headless.64.zip"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 14559635,
     "digest": null,
-    "download_count": 323,
+    "download_count": 325,
     "created_at": "2023-09-19T12:35:09Z",
     "updated_at": "2023-09-19T12:35:10Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_linux_server.64.zip"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 660380260,
     "digest": null,
-    "download_count": 1285,
+    "download_count": 1286,
     "created_at": "2023-09-19T12:35:46Z",
     "updated_at": "2023-09-19T12:36:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_mono_export_templates.tpz"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 101089130,
     "digest": null,
-    "download_count": 904,
+    "download_count": 909,
     "created_at": "2023-09-19T12:36:44Z",
     "updated_at": "2023-09-19T12:36:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_mono_osx.universal.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 66476119,
     "digest": null,
-    "download_count": 8018,
+    "download_count": 8023,
     "created_at": "2023-09-19T12:36:57Z",
     "updated_at": "2023-09-19T12:37:01Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_mono_win64.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 68945391,
     "digest": null,
-    "download_count": 4480,
+    "download_count": 4488,
     "created_at": "2023-09-19T12:35:12Z",
     "updated_at": "2023-09-19T12:35:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_osx.universal.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 16016149,
     "digest": null,
-    "download_count": 2690,
+    "download_count": 2700,
     "created_at": "2023-09-19T12:35:18Z",
     "updated_at": "2023-09-19T12:35:19Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_web_editor.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 37924633,
     "digest": null,
-    "download_count": 90597,
+    "download_count": 90667,
     "created_at": "2023-09-19T12:35:24Z",
     "updated_at": "2023-09-19T12:35:27Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_win64.exe.zip"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 39531508,
     "digest": null,
-    "download_count": 6747,
+    "download_count": 6756,
     "created_at": "2023-09-19T12:35:32Z",
     "updated_at": "2023-09-19T12:35:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.5-stable/Godot_v3.5-stable_x11.64.zip"

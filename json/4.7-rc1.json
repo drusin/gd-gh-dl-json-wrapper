@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 129975549,
     "digest": "sha256:3508e6ce7b26f59c3b2d2716a68f742be2666e90e8d1916297d94f0eaed4f511",
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2026-06-08T18:43:31Z",
     "updated_at": "2026-06-08T18:43:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc1/Godot_v4.7-rc1_android_debug.perfetto.apk"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 665818621,
     "digest": "sha256:aa265def5cd32d4bee4bf9b907e87e7a6f87ea4ed5d11dd139aa368961ccb10d",
-    "download_count": 9,
+    "download_count": 10,
     "created_at": "2026-06-08T18:44:35Z",
     "updated_at": "2026-06-08T18:46:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc1/Godot_v4.7-rc1_android_editor.apk"
@@ -369,7 +369,7 @@
     "state": "uploaded",
     "size": 102080618,
     "digest": "sha256:608e27a0911e41e14c12354bf236dde3da0a807fe257d4c33a135145b472f847",
-    "download_count": 271,
+    "download_count": 272,
     "created_at": "2026-06-08T18:56:33Z",
     "updated_at": "2026-06-08T18:56:47Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc1/Godot_v4.7-rc1_mono_linux_x86_64.zip"
