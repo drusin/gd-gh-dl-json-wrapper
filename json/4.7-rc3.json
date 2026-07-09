@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 103135014,
     "digest": "sha256:f5d68d4cd04381dd86d6d446529b2df989b2541226e6fc6c6bd20652e8136e7a",
-    "download_count": 64,
+    "download_count": 65,
     "created_at": "2026-06-15T18:16:30Z",
     "updated_at": "2026-06-15T18:16:45Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc3/godot-lib.4.7.rc3.template_release.aar"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 164492637,
     "digest": "sha256:2a0b2267501825a9da79b4ca407446f105e9bb93a8fe95753c5f9acfc976995d",
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2026-06-15T18:24:32Z",
     "updated_at": "2026-06-15T18:24:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc3/Godot_v4.7-rc3_android_editor_horizonos.apk"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 219271614,
     "digest": "sha256:464a2f437d02e2327718f87d99f4863faed6e3417b7036b901921e7fdda17361",
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2026-06-15T18:25:46Z",
     "updated_at": "2026-06-15T18:26:16Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc3/Godot_v4.7-rc3_android_source.perfetto.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 70219763,
     "digest": "sha256:651db47b63ee4adb38ee79a305ee46c437cd4fbdce904554ec78d513f1cdf1af",
-    "download_count": 6,
+    "download_count": 7,
     "created_at": "2026-06-15T18:29:22Z",
     "updated_at": "2026-06-15T18:29:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc3/Godot_v4.7-rc3_linux.arm32.zip"
