@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 1253771865,
     "digest": "sha256:8c91fe1d00cf84d3776d2a194c19c97be449b8b3fd7206b1b3e422b0b227e103",
-    "download_count": 2,
+    "download_count": 3,
     "created_at": "2026-05-16T17:14:14Z",
     "updated_at": "2026-05-16T17:17:02Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6.3-rc2/Godot_native_debug_symbols.4.6.3.rc2.editor.android.zip"
@@ -369,7 +369,7 @@
     "state": "uploaded",
     "size": 107732274,
     "digest": "sha256:03f771849122911b480bd9500e992143dd6d70b267316217bf4a07223cf526c8",
-    "download_count": 315,
+    "download_count": 316,
     "created_at": "2026-05-16T17:31:21Z",
     "updated_at": "2026-05-16T17:31:37Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6.3-rc2/Godot_v4.6.3-rc2_mono_windows_arm64.zip"

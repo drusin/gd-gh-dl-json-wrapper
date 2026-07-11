@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 103480711,
     "digest": "sha256:af07930432edf4740eca8f95592148c05feaf435c3120765d110fcf9941ed23c",
-    "download_count": 4,
+    "download_count": 5,
     "created_at": "2026-05-29T22:02:20Z",
     "updated_at": "2026-05-29T22:02:36Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta4/godot-lib.4.7.beta4.mono.template_release.aar"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 779375584,
     "digest": "sha256:04ebfad5a816b89043e0b44ec1cc297ec8f7ed8d343c3ba4dc57cd42715786ea",
-    "download_count": 3,
+    "download_count": 4,
     "created_at": "2026-05-29T21:51:31Z",
     "updated_at": "2026-05-29T21:53:18Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta4/Godot_native_debug_symbols.4.7.beta4.template_release.android.zip"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 309374255,
     "digest": "sha256:f6a5a09d635c9a060847d5d1c751bf03aed0c690654842995c38d0d8f91b8f42",
-    "download_count": 3,
+    "download_count": 4,
     "created_at": "2026-05-29T21:53:38Z",
     "updated_at": "2026-05-29T21:54:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta4/Godot_v4.7-beta4_android_editor.aab"
