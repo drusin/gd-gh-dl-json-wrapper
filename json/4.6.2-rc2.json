@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 100679893,
     "digest": "sha256:befe30b95f891e618d20641bdd8139d9d932f5e9b0ccd2cef62a27f5f3a2a8e5",
-    "download_count": 7,
+    "download_count": 8,
     "created_at": "2026-03-20T21:38:38Z",
     "updated_at": "2026-03-20T21:38:52Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6.2-rc2/godot-lib.4.6.2.rc2.mono.template_release.aar"
@@ -444,7 +444,7 @@
     "state": "uploaded",
     "size": 4878,
     "digest": "sha256:298a49688e1b93c14e28890f07daabd4738e119f8571372836b12e62100c1fe3",
-    "download_count": 771,
+    "download_count": 773,
     "created_at": "2026-03-20T21:43:47Z",
     "updated_at": "2026-03-20T21:43:47Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6.2-rc2/SHA512-SUMS.txt"
