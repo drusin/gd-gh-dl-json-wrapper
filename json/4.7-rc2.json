@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 103129829,
     "digest": "sha256:6197394686426b1f93a22fe1b8a4049fb73aabcf4915043c6566c7a5aa8bdeec",
-    "download_count": 108,
+    "download_count": 109,
     "created_at": "2026-06-11T15:42:17Z",
     "updated_at": "2026-06-11T15:42:31Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc2/godot-lib.4.7.rc2.template_release.aar"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 70209494,
     "digest": "sha256:e0e901877c3bb8961094f3ba23cb25db8fef44e0081eb415bb910dc1d3b96e28",
-    "download_count": 10,
+    "download_count": 12,
     "created_at": "2026-06-11T15:55:14Z",
     "updated_at": "2026-06-11T15:55:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc2/Godot_v4.7-rc2_linux.arm32.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 72447121,
     "digest": "sha256:966b0d64262f2305cc9e2147a7b24048e5f003e12846038c653a188cbb33b47e",
-    "download_count": 570,
+    "download_count": 572,
     "created_at": "2026-06-11T15:55:25Z",
     "updated_at": "2026-06-11T15:55:36Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc2/Godot_v4.7-rc2_linux.arm64.zip"
@@ -264,7 +264,7 @@
     "state": "uploaded",
     "size": 73568180,
     "digest": "sha256:3fa6185c9ab67e7af2c7b73aad1b8ee74c72986b8766d930af0daa3665498f21",
-    "download_count": 569,
+    "download_count": 571,
     "created_at": "2026-06-11T15:55:37Z",
     "updated_at": "2026-06-11T15:55:49Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc2/Godot_v4.7-rc2_linux.x86_32.zip"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 73308998,
     "digest": "sha256:ebddea2fb845899fd70242007f09f9d01730244b95f588e6c6bb9d0b2f48b058",
-    "download_count": 837,
+    "download_count": 840,
     "created_at": "2026-06-11T15:55:50Z",
     "updated_at": "2026-06-11T15:56:02Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc2/Godot_v4.7-rc2_linux.x86_64.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 100032340,
     "digest": "sha256:aac94aec49ec5f96da777b42671cf325539ecf02aef9e155650441fbde72f119",
-    "download_count": 7,
+    "download_count": 9,
     "created_at": "2026-06-11T16:00:21Z",
     "updated_at": "2026-06-11T16:00:35Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc2/Godot_v4.7-rc2_mono_linux_arm32.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 102305756,
     "digest": "sha256:2c4f2047ab5acddde17193b557806e172bec16d22e27b5674e9df95018800b2b",
-    "download_count": 568,
+    "download_count": 570,
     "created_at": "2026-06-11T16:00:36Z",
     "updated_at": "2026-06-11T16:00:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc2/Godot_v4.7-rc2_mono_linux_arm64.zip"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 103306690,
     "digest": "sha256:d2ea6f97e57b4c283861cb321ec5766036f60a3cb2a2109872cc1ad9d02d5790",
-    "download_count": 568,
+    "download_count": 570,
     "created_at": "2026-06-11T16:00:51Z",
     "updated_at": "2026-06-11T16:01:06Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc2/Godot_v4.7-rc2_mono_linux_x86_32.zip"
@@ -369,7 +369,7 @@
     "state": "uploaded",
     "size": 103142009,
     "digest": "sha256:04b490c6c689f73ffc0063acefd83d624cc8d11da9866906461aca44a744a187",
-    "download_count": 669,
+    "download_count": 672,
     "created_at": "2026-06-11T16:01:07Z",
     "updated_at": "2026-06-11T16:01:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc2/Godot_v4.7-rc2_mono_linux_x86_64.zip"
