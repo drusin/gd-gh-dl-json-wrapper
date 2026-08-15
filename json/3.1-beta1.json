@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 388085311,
     "digest": null,
-    "download_count": 194,
+    "download_count": 195,
     "created_at": "2023-09-19T19:40:07Z",
     "updated_at": "2023-09-19T19:40:28Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_export_templates.tpz"
@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 26227536,
     "digest": null,
-    "download_count": 217,
+    "download_count": 218,
     "created_at": "2023-09-19T19:40:30Z",
     "updated_at": "2023-09-19T19:40:32Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_linux_headless.64.zip"
@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 12722207,
     "digest": null,
-    "download_count": 232,
+    "download_count": 233,
     "created_at": "2023-09-19T19:40:33Z",
     "updated_at": "2023-09-19T19:40:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_linux_server.64.zip"
@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 196761996,
     "digest": null,
-    "download_count": 176,
+    "download_count": 177,
     "created_at": "2023-09-19T19:40:55Z",
     "updated_at": "2023-09-19T19:41:06Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_mono_export_templates.tpz"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 46037030,
     "digest": null,
-    "download_count": 231,
+    "download_count": 232,
     "created_at": "2023-09-19T19:41:11Z",
     "updated_at": "2023-09-19T19:41:15Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_mono_win32.zip"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 45872611,
     "digest": null,
-    "download_count": 261,
+    "download_count": 262,
     "created_at": "2023-09-19T19:41:16Z",
     "updated_at": "2023-09-19T19:41:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_mono_win64.zip"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 60316453,
     "digest": null,
-    "download_count": 244,
+    "download_count": 245,
     "created_at": "2023-09-19T19:41:25Z",
     "updated_at": "2023-09-19T19:41:29Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_mono_x11_32.zip"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 60812798,
     "digest": null,
-    "download_count": 226,
+    "download_count": 227,
     "created_at": "2023-09-19T19:41:30Z",
     "updated_at": "2023-09-19T19:41:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_mono_x11_64.zip"
@@ -174,7 +174,7 @@
     "state": "uploaded",
     "size": 27262429,
     "digest": null,
-    "download_count": 152,
+    "download_count": 153,
     "created_at": "2023-09-19T19:40:35Z",
     "updated_at": "2023-09-19T19:40:38Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_osx.64.zip"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 23088567,
     "digest": null,
-    "download_count": 228,
+    "download_count": 229,
     "created_at": "2023-09-19T19:40:39Z",
     "updated_at": "2023-09-19T19:40:41Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_win32.exe.zip"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 22772825,
     "digest": null,
-    "download_count": 311,
+    "download_count": 312,
     "created_at": "2023-09-19T19:40:42Z",
     "updated_at": "2023-09-19T19:40:44Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_win64.exe.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 25387634,
     "digest": null,
-    "download_count": 221,
+    "download_count": 222,
     "created_at": "2023-09-19T19:40:45Z",
     "updated_at": "2023-09-19T19:40:47Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_x11.32.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 25597229,
     "digest": null,
-    "download_count": 259,
+    "download_count": 260,
     "created_at": "2023-09-19T19:40:48Z",
     "updated_at": "2023-09-19T19:40:50Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.1-beta1/Godot_v3.1-beta1_x11.64.zip"
