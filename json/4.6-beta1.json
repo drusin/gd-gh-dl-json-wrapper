@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 100485325,
     "digest": "sha256:a310ac2fdd3fa9bb608f9e8c4e3395f5b8c71cbc9fbd30642c60b5b7e624bbff",
-    "download_count": 32,
+    "download_count": 35,
     "created_at": "2025-12-10T23:28:01Z",
     "updated_at": "2025-12-10T23:28:14Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta1/godot-lib.4.6.beta1.mono.template_release.aar"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 159029873,
     "digest": "sha256:8a68ed38e3e14b4cbec90f7fb445b3391a6d608c182390db5f49e961f89fb23f",
-    "download_count": 78,
+    "download_count": 79,
     "created_at": "2025-12-10T23:22:49Z",
     "updated_at": "2025-12-10T23:23:10Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta1/Godot_v4.6-beta1_android_editor_horizonos.apk"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 166458606,
     "digest": "sha256:f582d78b145bd0d9052526ceac303f09c64f437602b5aa21f2a05f94decb3fcf",
-    "download_count": 59,
+    "download_count": 61,
     "created_at": "2025-12-10T23:23:11Z",
     "updated_at": "2025-12-10T23:23:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta1/Godot_v4.6-beta1_android_editor_picoos.apk"
