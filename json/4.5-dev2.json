@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 103336987,
     "digest": null,
-    "download_count": 39,
+    "download_count": 40,
     "created_at": "2025-04-08T15:20:03Z",
     "updated_at": "2025-04-08T15:20:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev2/godot-lib.4.5.dev2.mono.template_release.aar"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 1212063273,
     "digest": null,
-    "download_count": 1174,
+    "download_count": 1178,
     "created_at": "2025-04-08T15:15:47Z",
     "updated_at": "2025-04-08T15:18:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev2/Godot_v4.5-dev2_export_templates.tpz"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 131966676,
     "digest": null,
-    "download_count": 526,
+    "download_count": 530,
     "created_at": "2025-04-08T15:19:05Z",
     "updated_at": "2025-04-08T15:19:22Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev2/Godot_v4.5-dev2_macos.universal.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 1128889727,
     "digest": null,
-    "download_count": 509,
+    "download_count": 520,
     "created_at": "2025-04-08T15:20:18Z",
     "updated_at": "2025-04-08T15:22:51Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev2/Godot_v4.5-dev2_mono_export_templates.tpz"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 83908813,
     "digest": null,
-    "download_count": 403,
+    "download_count": 406,
     "created_at": "2025-04-08T15:23:31Z",
     "updated_at": "2025-04-08T15:23:43Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev2/Godot_v4.5-dev2_mono_linux_x86_64.zip"
@@ -294,7 +294,7 @@
     "state": "uploaded",
     "size": 154424004,
     "digest": null,
-    "download_count": 307,
+    "download_count": 312,
     "created_at": "2025-04-08T15:23:44Z",
     "updated_at": "2025-04-08T15:24:05Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev2/Godot_v4.5-dev2_mono_macos.universal.zip"
@@ -324,7 +324,7 @@
     "state": "uploaded",
     "size": 91481429,
     "digest": null,
-    "download_count": 903,
+    "download_count": 906,
     "created_at": "2025-04-08T15:24:19Z",
     "updated_at": "2025-04-08T15:24:31Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5-dev2/Godot_v4.5-dev2_mono_win64.zip"
