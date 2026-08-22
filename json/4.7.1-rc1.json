@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 103583943,
     "digest": "sha256:952c3f9730c50615c5b026a359e5cd59523370d8769cac4164fd3e92a8d7bf16",
-    "download_count": 54,
+    "download_count": 55,
     "created_at": "2026-07-01T16:27:52Z",
     "updated_at": "2026-07-01T16:28:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7.1-rc1/godot-lib.4.7.1.rc1.mono.template_release.aar"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 1280328930,
     "digest": "sha256:75f36a1c358afc19e320d28c72d95867c174f2be98d85c1ea07af71d1d88a0b9",
-    "download_count": 2198,
+    "download_count": 2200,
     "created_at": "2026-07-01T16:24:06Z",
     "updated_at": "2026-07-01T16:26:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7.1-rc1/Godot_v4.7.1-rc1_export_templates.tpz"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 75664026,
     "digest": "sha256:ad6715d4866fdbef7d849b1b06c64e913cb93ff12dc2c3260f4c40f0196defc5",
-    "download_count": 1373,
+    "download_count": 1375,
     "created_at": "2026-07-01T16:26:48Z",
     "updated_at": "2026-07-01T16:26:56Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7.1-rc1/Godot_v4.7.1-rc1_linux.x86_64.zip"
@@ -354,7 +354,7 @@
     "state": "uploaded",
     "size": 105673300,
     "digest": "sha256:205699c73c6556771e15fcc5e345aa1f42838ab4108f4a1c3aeaed29130c63f0",
-    "download_count": 425,
+    "download_count": 426,
     "created_at": "2026-07-01T16:30:45Z",
     "updated_at": "2026-07-01T16:30:56Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7.1-rc1/Godot_v4.7.1-rc1_mono_linux_x86_32.zip"
@@ -429,7 +429,7 @@
     "state": "uploaded",
     "size": 112628642,
     "digest": "sha256:e51937621312c27200bc1c11eb9b984245a5205ba28297fffc98fd585e07650c",
-    "download_count": 424,
+    "download_count": 426,
     "created_at": "2026-07-01T16:31:56Z",
     "updated_at": "2026-07-01T16:32:16Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7.1-rc1/Godot_v4.7.1-rc1_mono_windows_arm64.zip"
@@ -444,7 +444,7 @@
     "state": "uploaded",
     "size": 51852509,
     "digest": "sha256:7e37cd2d5fba3e554a269a5fead48a500381717a2da9f32b9184ef6088e038fe",
-    "download_count": 181,
+    "download_count": 183,
     "created_at": "2026-07-01T16:27:14Z",
     "updated_at": "2026-07-01T16:27:20Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7.1-rc1/Godot_v4.7.1-rc1_web_editor.zip"
