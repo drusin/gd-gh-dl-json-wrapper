@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 101034058,
     "digest": "sha256:6e529aefa0d22dd597db1d5efd9344682d0382a7352b0a4305e7aca0f5c06e18",
-    "download_count": 30,
+    "download_count": 31,
     "created_at": "2026-01-21T15:43:51Z",
     "updated_at": "2026-01-21T15:44:06Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.2-rc1/godot-lib.4.5.2.rc1.mono.template_release.aar"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 161268387,
     "digest": "sha256:431daa356676eeecf6297771bf3ae7aecee909540a30e3a4d6f3d0509d4457ea",
-    "download_count": 7,
+    "download_count": 8,
     "created_at": "2026-01-21T15:38:10Z",
     "updated_at": "2026-01-21T15:38:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.2-rc1/Godot_v4.5.2-rc1_android_editor_horizonos.apk"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 70517094,
     "digest": "sha256:b1601668fced5fe3f7cabb3404e68bb8ea49854a29343971ac3fb2e8649ec901",
-    "download_count": 1067,
+    "download_count": 1068,
     "created_at": "2026-01-21T15:42:35Z",
     "updated_at": "2026-01-21T15:42:45Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.2-rc1/Godot_v4.5.2-rc1_linux.x86_64.zip"
@@ -369,7 +369,7 @@
     "state": "uploaded",
     "size": 100752849,
     "digest": "sha256:e8f2d3334ba7ddfc6a0e6021c22268086d7b94764ece565fc09d6a4a959411aa",
-    "download_count": 1003,
+    "download_count": 1004,
     "created_at": "2026-01-21T15:48:50Z",
     "updated_at": "2026-01-21T15:49:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.5.2-rc1/Godot_v4.5.2-rc1_mono_windows_arm64.zip"

@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 103475406,
     "digest": "sha256:ec5901b34c3e11e260b2a96fffce227823ccc71e1cbfa4cb3b52b55182242248",
-    "download_count": 36,
+    "download_count": 37,
     "created_at": "2026-06-03T20:54:19Z",
     "updated_at": "2026-06-03T20:54:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta5/godot-lib.4.7.beta5.mono.template_release.aar"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 69155224,
     "digest": "sha256:a5a8ea54df82cdddd8c9f0301d9fc38d6ee4251551f3b7f14c8298dd64c1fe3f",
-    "download_count": 10,
+    "download_count": 11,
     "created_at": "2026-06-03T20:52:17Z",
     "updated_at": "2026-06-03T20:52:27Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta5/Godot_v4.7-beta5_linux.arm32.zip"
@@ -264,7 +264,7 @@
     "state": "uploaded",
     "size": 72492995,
     "digest": "sha256:b23b13551c9766143e96cc62d719f54d856bdfd906414655f8c828b89fcfd023",
-    "download_count": 259,
+    "download_count": 261,
     "created_at": "2026-06-03T20:52:42Z",
     "updated_at": "2026-06-03T20:52:53Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta5/Godot_v4.7-beta5_linux.x86_32.zip"
@@ -444,7 +444,7 @@
     "state": "uploaded",
     "size": 48425056,
     "digest": "sha256:a813bb5a9d0d7f108159d5d91e22c003c3fc04818cbf87af7d54ce0ee4844fec",
-    "download_count": 11,
+    "download_count": 12,
     "created_at": "2026-06-03T20:53:30Z",
     "updated_at": "2026-06-03T20:53:37Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta5/Godot_v4.7-beta5_web_editor.zip"
@@ -474,7 +474,7 @@
     "state": "uploaded",
     "size": 80331579,
     "digest": "sha256:e4ba64eac0b1f8ca457fb3c0dfc59c5119f126803ea597c27d42ea4b8a49180d",
-    "download_count": 370,
+    "download_count": 371,
     "created_at": "2026-06-03T20:53:53Z",
     "updated_at": "2026-06-03T20:54:05Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-beta5/Godot_v4.7-beta5_win64.exe.zip"
