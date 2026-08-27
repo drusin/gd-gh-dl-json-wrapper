@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 90908374,
     "digest": null,
-    "download_count": 45,
+    "download_count": 46,
     "created_at": "2024-08-01T15:53:12Z",
     "updated_at": "2024-08-01T15:53:24Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc2/godot-lib.4.3.rc2.mono.template_release.aar"
@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 201064454,
     "digest": null,
-    "download_count": 679,
+    "download_count": 681,
     "created_at": "2024-08-01T15:49:12Z",
     "updated_at": "2024-08-01T15:49:41Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc2/Godot_v4.3-rc2_android_editor.apk"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 1073150746,
     "digest": null,
-    "download_count": 2110,
+    "download_count": 2111,
     "created_at": "2024-08-01T15:49:41Z",
     "updated_at": "2024-08-01T15:51:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc2/Godot_v4.3-rc2_export_templates.tpz"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 46004294,
     "digest": null,
-    "download_count": 216,
+    "download_count": 217,
     "created_at": "2024-08-01T15:51:58Z",
     "updated_at": "2024-08-01T15:52:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc2/Godot_v4.3-rc2_linux.arm32.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 69701070,
     "digest": null,
-    "download_count": 691,
+    "download_count": 692,
     "created_at": "2024-08-01T15:56:04Z",
     "updated_at": "2024-08-01T15:56:13Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc2/Godot_v4.3-rc2_mono_linux_x86_64.zip"
@@ -309,7 +309,7 @@
     "state": "uploaded",
     "size": 73708303,
     "digest": null,
-    "download_count": 365,
+    "download_count": 366,
     "created_at": "2024-08-01T15:56:53Z",
     "updated_at": "2024-08-01T15:57:03Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc2/Godot_v4.3-rc2_mono_windows_arm64.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 57872621,
     "digest": null,
-    "download_count": 262,
+    "download_count": 263,
     "created_at": "2024-08-01T15:52:47Z",
     "updated_at": "2024-08-01T15:52:55Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.3-rc2/Godot_v4.3-rc2_win32.exe.zip"
