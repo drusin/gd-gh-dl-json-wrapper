@@ -9,7 +9,7 @@
     "state": "uploaded",
     "size": 44924912,
     "digest": "sha256:11efd6544783025511646d5508e025cc0052273fb7bf6c37809f4127b44beea6",
-    "download_count": 81,
+    "download_count": 82,
     "created_at": "2026-06-08T18:38:05Z",
     "updated_at": "2026-06-08T18:38:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc1/godot-4.7-rc1.tar.xz"
@@ -24,7 +24,7 @@
     "state": "uploaded",
     "size": 87,
     "digest": "sha256:1ad2a9f9e9092120c45e6bdf92f7cedeb4d154ec1ae3a54ac5e452768acf26dc",
-    "download_count": 3,
+    "download_count": 4,
     "created_at": "2026-06-08T18:38:13Z",
     "updated_at": "2026-06-08T18:38:13Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc1/godot-4.7-rc1.tar.xz.sha256"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 72237991,
     "digest": "sha256:f13e7a224d925d94b5a3553bcfd69cf5e4c93b67c6b185724834065d1c695946",
-    "download_count": 449,
+    "download_count": 451,
     "created_at": "2026-06-08T18:51:11Z",
     "updated_at": "2026-06-08T18:51:22Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc1/Godot_v4.7-rc1_linux.x86_64.zip"
@@ -414,7 +414,7 @@
     "state": "uploaded",
     "size": 110897998,
     "digest": "sha256:85978e01167bf2ce1f3326952f3f0add616f02a62784ec0f36fa738d49906bf2",
-    "download_count": 219,
+    "download_count": 221,
     "created_at": "2026-06-08T18:57:32Z",
     "updated_at": "2026-06-08T18:57:48Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc1/Godot_v4.7-rc1_mono_win64.zip"
@@ -474,7 +474,7 @@
     "state": "uploaded",
     "size": 80334874,
     "digest": "sha256:cff41886f4e1996f81629535fadbf4c309813b92f8215b409bf6a299dbd06bcc",
-    "download_count": 275,
+    "download_count": 277,
     "created_at": "2026-06-08T18:52:16Z",
     "updated_at": "2026-06-08T18:52:30Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.7-rc1/Godot_v4.7-rc1_win64.exe.zip"
