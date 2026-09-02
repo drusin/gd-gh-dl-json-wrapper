@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 104498335,
     "digest": "sha256:996db7230e088f970e0e03c7cf63fd41252b0b37d6c12c58f1e04890137d176f",
-    "download_count": 100,
+    "download_count": 102,
     "created_at": "2026-07-21T15:59:06Z",
     "updated_at": "2026-07-21T15:59:18Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.8-dev2/godot-lib.4.8.dev2.mono.template_release.aar"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 1293151856,
     "digest": "sha256:cd701229d3bd1fc27c7e294d5a0245dae8b2f53c017119a7ddf00cac56a25e6e",
-    "download_count": 219,
+    "download_count": 221,
     "created_at": "2026-07-21T15:55:22Z",
     "updated_at": "2026-07-21T15:57:26Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.8-dev2/Godot_v4.8-dev2_export_templates.tpz"
@@ -279,7 +279,7 @@
     "state": "uploaded",
     "size": 76342827,
     "digest": "sha256:680b6427e620da7ad3b075dd794a4a328e43be9f24d28e3881ef2d8dbfa626c0",
-    "download_count": 2499,
+    "download_count": 2500,
     "created_at": "2026-07-21T15:57:53Z",
     "updated_at": "2026-07-21T15:58:12Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.8-dev2/Godot_v4.8-dev2_linux.x86_64.zip"
@@ -414,7 +414,7 @@
     "state": "uploaded",
     "size": 115213277,
     "digest": "sha256:0ca444fc787d495f8828758cd21f2fe1feae7c7135ac84a1869f6aab8f317e2f",
-    "download_count": 1141,
+    "download_count": 1142,
     "created_at": "2026-07-21T16:04:13Z",
     "updated_at": "2026-07-21T16:04:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.8-dev2/Godot_v4.8-dev2_mono_win64.zip"
@@ -504,7 +504,7 @@
     "state": "uploaded",
     "size": 5550,
     "digest": "sha256:f9bbc85f619c8b59866bee9ff1174f5780bc17defea9896d519d53e4fafb4e8a",
-    "download_count": 1079,
+    "download_count": 1080,
     "created_at": "2026-07-21T16:04:38Z",
     "updated_at": "2026-07-21T16:04:39Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.8-dev2/SHA512-SUMS.txt"
