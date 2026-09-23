@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 110604624,
     "digest": "sha256:3b05dc15fd622dd7e6453153ca4f7fda13e447c5da43f1b907a44114d32a774b",
-    "download_count": 3460,
+    "download_count": 3461,
     "created_at": "2025-10-31T20:08:33Z",
     "updated_at": "2025-10-31T20:09:07Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.7-dev1/Godot_v3.7-dev1_android_editor.apk"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 91103795,
     "digest": "sha256:347a4d15b28ea1b4ac72aa5e617aee57b78289dbd27d9dd9df7776880312f7e0",
-    "download_count": 3986,
+    "download_count": 3988,
     "created_at": "2025-10-29T09:42:23Z",
     "updated_at": "2025-10-29T09:42:36Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.7-dev1/Godot_v3.7-dev1_mono_osx.universal.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 36155488,
     "digest": "sha256:7fb94021649ac8f90002ac91cb3828b78f3f66be3bed3a71f0382211b3638b88",
-    "download_count": 9745,
+    "download_count": 9751,
     "created_at": "2025-10-29T09:40:11Z",
     "updated_at": "2025-10-29T09:40:17Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.7-dev1/Godot_v3.7-dev1_win64.exe.zip"
