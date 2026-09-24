@@ -9,7 +9,7 @@
     "state": "uploaded",
     "size": 26479192,
     "digest": "sha256:959b6044c07e1972159109ed99259a4cdd8ba0c7776bc1431f91c3d5889625c2",
-    "download_count": 41,
+    "download_count": 43,
     "created_at": "2026-08-22T14:00:50Z",
     "updated_at": "2026-08-22T14:00:53Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/godot-3.6.3-stable.tar.xz"
@@ -24,7 +24,7 @@
     "state": "uploaded",
     "size": 92,
     "digest": "sha256:6d11fded8987db1c4110232c427b5c810cbf6ff07d94c04664e4ff54e95ef466",
-    "download_count": 9,
+    "download_count": 10,
     "created_at": "2026-08-22T14:00:54Z",
     "updated_at": "2026-08-22T14:00:54Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/godot-3.6.3-stable.tar.xz.sha256"
@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 61421957,
     "digest": "sha256:7215d918c37902ca4f64f6ce4a4454972eb29467b63430d00dec17a341ea3205",
-    "download_count": 145,
+    "download_count": 146,
     "created_at": "2026-08-22T14:03:15Z",
     "updated_at": "2026-08-22T14:03:22Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/godot-lib.3.6.3.stable.mono.release.aar"
@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 48053820,
     "digest": "sha256:8375005ada94c72d2a2608cc3c09a24a77cf640cde04126b43365faf6e4775a3",
-    "download_count": 194,
+    "download_count": 195,
     "created_at": "2026-08-22T14:00:55Z",
     "updated_at": "2026-08-22T14:01:01Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/godot-lib.3.6.3.stable.release.aar"
@@ -69,7 +69,7 @@
     "state": "uploaded",
     "size": 226271325,
     "digest": "sha256:ebbbdc39fa308eb19b2ef2b3f49593603df718987be5421c56beac5c5cfff84f",
-    "download_count": 10,
+    "download_count": 11,
     "created_at": "2026-08-22T14:01:02Z",
     "updated_at": "2026-08-22T14:01:25Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/Godot_v3.6.3-stable_android_editor.aab"
@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 110128170,
     "digest": "sha256:41f9ddab0185aa0943ba50141b4200adbb95f9d33b7949c5754e18d9814f521a",
-    "download_count": 161,
+    "download_count": 162,
     "created_at": "2026-08-22T14:01:26Z",
     "updated_at": "2026-08-22T14:01:37Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/Godot_v3.6.3-stable_android_editor.apk"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 530863170,
     "digest": "sha256:6a1402616f061b22cd3ba0960d9294a16e6225cc313363d16cd4ee36a4d0c410",
-    "download_count": 213,
+    "download_count": 214,
     "created_at": "2026-08-22T14:01:38Z",
     "updated_at": "2026-08-22T14:02:30Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/Godot_v3.6.3-stable_export_templates.tpz"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 27416321,
     "digest": "sha256:29d028581274793e005a08e5dea2015ab9c1d0fe607d3176f84d6cc67273a5f1",
-    "download_count": 7,
+    "download_count": 9,
     "created_at": "2026-08-22T14:02:31Z",
     "updated_at": "2026-08-22T14:02:34Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/Godot_v3.6.3-stable_linux.arm32.zip"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 27822620,
     "digest": "sha256:63560002586ea1ebf534d2f2543808c512bc555312ee8342629e030c27c54647",
-    "download_count": 542,
+    "download_count": 543,
     "created_at": "2026-08-22T14:02:35Z",
     "updated_at": "2026-08-22T14:02:38Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/Godot_v3.6.3-stable_linux.arm64.zip"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 32276678,
     "digest": "sha256:5164849c9a5942a952720f3f9232506c590b10cca880591a1c1081acb617ebe4",
-    "download_count": 116,
+    "download_count": 118,
     "created_at": "2026-08-22T14:02:39Z",
     "updated_at": "2026-08-22T14:02:43Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/Godot_v3.6.3-stable_linux_headless.64.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 58421996,
     "digest": "sha256:5e4dfc11c668e792a5ef4aec4471c7a09353d37b1998248ba8170f388908fc5b",
-    "download_count": 576,
+    "download_count": 577,
     "created_at": "2026-08-22T14:04:47Z",
     "updated_at": "2026-08-22T14:04:54Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/Godot_v3.6.3-stable_mono_win32.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 64368288,
     "digest": "sha256:fe086083378ee000b55f64e3e3017571d3a5d43dc5cf4c4bfade2f9c17cb5d28",
-    "download_count": 657,
+    "download_count": 660,
     "created_at": "2026-08-22T14:04:55Z",
     "updated_at": "2026-08-22T14:05:01Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/Godot_v3.6.3-stable_mono_win64.zip"
@@ -339,7 +339,7 @@
     "state": "uploaded",
     "size": 35756983,
     "digest": "sha256:80616a2621025b508a5ed14a5066630fb6c0c384ecab87277bf33569e965eec3",
-    "download_count": 1218,
+    "download_count": 1223,
     "created_at": "2026-08-22T14:03:01Z",
     "updated_at": "2026-08-22T14:03:05Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/Godot_v3.6.3-stable_win64.exe.zip"
@@ -384,7 +384,7 @@
     "state": "uploaded",
     "size": 4183,
     "digest": "sha256:18dab12d689c76e713104ddab49e080ba155a7b6fd06b5047a51efb77ea48e59",
-    "download_count": 569,
+    "download_count": 570,
     "created_at": "2026-08-22T14:05:18Z",
     "updated_at": "2026-08-22T14:05:18Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/3.6.3-stable/SHA512-SUMS.txt"
