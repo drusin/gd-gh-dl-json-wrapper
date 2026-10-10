@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 654670605,
     "digest": "sha256:5d01a3f7886a93d7adbc00b55edaa17794002bf291bb20f95656727ad9eff8f0",
-    "download_count": 265,
+    "download_count": 267,
     "created_at": "2026-03-09T16:55:36Z",
     "updated_at": "2026-03-09T16:57:02Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6.2-rc1/Godot_v4.6.2-rc1_android_editor.apk"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 1250095259,
     "digest": "sha256:ff9d2cd1be31e7ed431bdfd203d999961a0ac663aa9b2668b16e19013a165890",
-    "download_count": 374,
+    "download_count": 376,
     "created_at": "2026-03-09T16:57:50Z",
     "updated_at": "2026-03-09T17:00:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6.2-rc1/Godot_v4.6.2-rc1_export_templates.tpz"
@@ -414,7 +414,7 @@
     "state": "uploaded",
     "size": 79813758,
     "digest": "sha256:7de21765fd0c891afb18a62d24ab7cbc4304f9ab01ec89d0e5ce4005edfb3f17",
-    "download_count": 1974,
+    "download_count": 1975,
     "created_at": "2026-03-09T17:02:20Z",
     "updated_at": "2026-03-09T17:02:31Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6.2-rc1/Godot_v4.6.2-rc1_win64.exe.zip"
