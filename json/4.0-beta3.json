@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 208726669,
     "digest": null,
-    "download_count": 334,
+    "download_count": 336,
     "created_at": "2023-09-19T16:39:18Z",
     "updated_at": "2023-09-19T16:39:28Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta3/Godot_v4.0-beta3_android_editor.apk"
@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 47861141,
     "digest": null,
-    "download_count": 372,
+    "download_count": 374,
     "created_at": "2023-09-19T16:40:10Z",
     "updated_at": "2023-09-19T16:40:14Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta3/Godot_v4.0-beta3_linux.x86_32.zip"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 54870905,
     "digest": null,
-    "download_count": 468,
+    "download_count": 514,
     "created_at": "2023-09-19T16:40:15Z",
     "updated_at": "2023-09-19T16:40:19Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta3/Godot_v4.0-beta3_linux.x86_64.zip"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 56755797,
     "digest": null,
-    "download_count": 348,
+    "download_count": 350,
     "created_at": "2023-09-19T16:41:26Z",
     "updated_at": "2023-09-19T16:41:30Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta3/Godot_v4.0-beta3_mono_win32.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 49168372,
     "digest": null,
-    "download_count": 376,
+    "download_count": 378,
     "created_at": "2023-09-19T16:40:30Z",
     "updated_at": "2023-09-19T16:40:33Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta3/Godot_v4.0-beta3_win32.exe.zip"
@@ -249,7 +249,7 @@
     "state": "uploaded",
     "size": 54420127,
     "digest": null,
-    "download_count": 622,
+    "download_count": 626,
     "created_at": "2023-09-19T16:40:35Z",
     "updated_at": "2023-09-19T16:40:38Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.0-beta3/Godot_v4.0-beta3_win64.exe.zip"
