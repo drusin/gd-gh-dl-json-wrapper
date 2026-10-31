@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 100485325,
     "digest": "sha256:a310ac2fdd3fa9bb608f9e8c4e3395f5b8c71cbc9fbd30642c60b5b7e624bbff",
-    "download_count": 117,
+    "download_count": 120,
     "created_at": "2025-12-10T23:28:01Z",
     "updated_at": "2025-12-10T23:28:14Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta1/godot-lib.4.6.beta1.mono.template_release.aar"
@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100142961,
     "digest": "sha256:3ab22582b5166c9d097b50b83542770169a9d1b125e0cd164e982b08d09ebd01",
-    "download_count": 329,
+    "download_count": 331,
     "created_at": "2025-12-10T23:15:49Z",
     "updated_at": "2025-12-10T23:16:08Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta1/godot-lib.4.6.beta1.template_release.aar"
@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 765185565,
     "digest": "sha256:da17bd99719a58433cf87b85dc52436723e396486f27403e4e1eeb505a54d4e8",
-    "download_count": 19,
+    "download_count": 20,
     "created_at": "2025-12-10T23:18:56Z",
     "updated_at": "2025-12-10T23:20:40Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta1/Godot_native_debug_symbols.4.6.beta1.template_release.android.zip"
@@ -414,7 +414,7 @@
     "state": "uploaded",
     "size": 77412871,
     "digest": "sha256:54f4cda264f27685c3782882a120e20eca8c0c2461aa835e17db37e5408a0d68",
-    "download_count": 3091,
+    "download_count": 3092,
     "created_at": "2025-12-10T23:27:38Z",
     "updated_at": "2025-12-10T23:27:48Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta1/Godot_v4.6-beta1_win64.exe.zip"
@@ -429,7 +429,7 @@
     "state": "uploaded",
     "size": 76236166,
     "digest": "sha256:d33c48b2e55967172903988e076030cb83a0974932318e8a0ffacb019678cb32",
-    "download_count": 1590,
+    "download_count": 1591,
     "created_at": "2025-12-10T23:27:49Z",
     "updated_at": "2025-12-10T23:28:00Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta1/Godot_v4.6-beta1_windows_arm64.exe.zip"
