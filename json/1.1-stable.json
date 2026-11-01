@@ -84,7 +84,7 @@
     "state": "uploaded",
     "size": 179474802,
     "digest": null,
-    "download_count": 911,
+    "download_count": 915,
     "created_at": "2023-09-18T17:52:43Z",
     "updated_at": "2023-09-18T17:52:53Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_export_templates.tpz"
@@ -99,7 +99,7 @@
     "state": "uploaded",
     "size": 145923922,
     "digest": "sha256:716f15254938e55907acd2983072329f507dd2eea0c163e78e0b6b303461c74a",
-    "download_count": 4,
+    "download_count": 5,
     "created_at": "2025-11-22T23:15:37Z",
     "updated_at": "2025-11-22T23:15:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_export_templates_portable.tpz"
@@ -114,7 +114,7 @@
     "state": "uploaded",
     "size": 8600435,
     "digest": null,
-    "download_count": 496,
+    "download_count": 499,
     "created_at": "2023-09-18T17:52:54Z",
     "updated_at": "2023-09-18T17:52:55Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_linux_server.64.zip"
@@ -129,7 +129,7 @@
     "state": "uploaded",
     "size": 9624162,
     "digest": "sha256:aeef22dde37b1e35e8c59a445e4eae89d52424680027296f33b8434f3467e2dd",
-    "download_count": 13,
+    "download_count": 14,
     "created_at": "2025-11-22T22:38:18Z",
     "updated_at": "2025-11-22T22:38:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_linux_server_portable.64.zip"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 10717415,
     "digest": null,
-    "download_count": 831,
+    "download_count": 836,
     "created_at": "2023-09-18T17:52:56Z",
     "updated_at": "2023-09-18T17:52:59Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_osx32.zip"
@@ -159,7 +159,7 @@
     "state": "uploaded",
     "size": 8749314,
     "digest": null,
-    "download_count": 1295,
+    "download_count": 1297,
     "created_at": "2023-09-18T17:53:00Z",
     "updated_at": "2023-09-18T17:53:02Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_win32.exe.zip"
@@ -174,7 +174,7 @@
     "state": "uploaded",
     "size": 9878933,
     "digest": null,
-    "download_count": 5290,
+    "download_count": 5295,
     "created_at": "2023-09-18T17:53:03Z",
     "updated_at": "2023-09-18T17:53:04Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_win64.exe.zip"
@@ -189,7 +189,7 @@
     "state": "uploaded",
     "size": 9333983,
     "digest": null,
-    "download_count": 425,
+    "download_count": 429,
     "created_at": "2023-09-18T17:53:05Z",
     "updated_at": "2023-09-18T17:53:07Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_x11.32.zip"
@@ -204,7 +204,7 @@
     "state": "uploaded",
     "size": 9497959,
     "digest": null,
-    "download_count": 1215,
+    "download_count": 1217,
     "created_at": "2023-09-18T17:53:08Z",
     "updated_at": "2023-09-18T17:53:09Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_x11.64.zip"
@@ -219,7 +219,7 @@
     "state": "uploaded",
     "size": 10166514,
     "digest": "sha256:afacd021d3a85d1730536584a3c8935a26d1da50f3bae711edbeff98d29f0151",
-    "download_count": 1,
+    "download_count": 2,
     "created_at": "2025-11-22T22:38:18Z",
     "updated_at": "2025-11-22T22:38:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_x11_portable.32.zip"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 9914211,
     "digest": "sha256:d617a52219af4df5510c4957e94a3243afc31ca0895a17f25a8f5a11061eda59",
-    "download_count": 5,
+    "download_count": 6,
     "created_at": "2025-11-22T22:38:18Z",
     "updated_at": "2025-11-22T22:38:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/1.1-stable/Godot_v1.1_stable_x11_portable.64.zip"

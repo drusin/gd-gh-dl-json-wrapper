@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 98725520,
     "digest": "sha256:ca4c1bb85c979eec73f0dc2a152f38745d3a2fdd267123a52a478d4746ff37b7",
-    "download_count": 312,
+    "download_count": 313,
     "created_at": "2025-11-04T21:38:36Z",
     "updated_at": "2025-11-04T21:38:49Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev3/godot-lib.4.6.dev3.template_release.aar"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 157681487,
     "digest": "sha256:98a23e5286ac46853870406c66db16576f7fa2c7eb9a12a53adc784f9fd067c6",
-    "download_count": 2668,
+    "download_count": 2669,
     "created_at": "2025-11-04T21:49:35Z",
     "updated_at": "2025-11-04T21:49:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev3/Godot_v4.6-dev3_macos.universal.zip"
@@ -399,7 +399,7 @@
     "state": "uploaded",
     "size": 79212208,
     "digest": "sha256:f01357ad2edeaea442a2a6c46c323182608138b0d3b953c503d41d2517453eb7",
-    "download_count": 1542,
+    "download_count": 1543,
     "created_at": "2025-11-04T21:50:11Z",
     "updated_at": "2025-11-04T21:50:22Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev3/Godot_v4.6-dev3_win32.exe.zip"
