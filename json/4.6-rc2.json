@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 100653740,
     "digest": "sha256:d074ac35d6e4df80077e0c73dd670086f1e8639ed000e258adb8777bf901336c",
-    "download_count": 147,
+    "download_count": 149,
     "created_at": "2026-01-20T15:21:43Z",
     "updated_at": "2026-01-20T15:21:57Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc2/godot-lib.4.6.rc2.mono.template_release.aar"
@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100312144,
     "digest": "sha256:d3213c1fbc369d178835d8da596a3c1ef893307a4af02497a8f7ed8cfa304004",
-    "download_count": 332,
+    "download_count": 336,
     "created_at": "2026-01-20T15:09:07Z",
     "updated_at": "2026-01-20T15:09:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc2/godot-lib.4.6.rc2.template_release.aar"
@@ -144,7 +144,7 @@
     "state": "uploaded",
     "size": 167458026,
     "digest": "sha256:6edf6c1f74fa6d121c27f37e9a3553437855ae1455e390eeda90c19ae088b71c",
-    "download_count": 10,
+    "download_count": 12,
     "created_at": "2026-01-20T15:16:24Z",
     "updated_at": "2026-01-20T15:16:47Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-rc2/Godot_v4.6-rc2_android_editor_picoos.apk"
