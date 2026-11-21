@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 100608147,
     "digest": "sha256:13245875bf4fda314b1a2a0ed737ea6997cfeddc2672896c67b105b248d757bc",
-    "download_count": 216,
+    "download_count": 217,
     "created_at": "2025-12-19T17:20:08Z",
     "updated_at": "2025-12-19T17:20:21Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta2/godot-lib.4.6.beta2.mono.template_release.aar"
@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100261065,
     "digest": "sha256:72ccb1a5eff9c69b77a75887544edfa6e822705187e246fe919a5cb2998e3d8c",
-    "download_count": 434,
+    "download_count": 435,
     "created_at": "2025-12-19T17:07:57Z",
     "updated_at": "2025-12-19T17:08:10Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta2/godot-lib.4.6.beta2.template_release.aar"
@@ -234,7 +234,7 @@
     "state": "uploaded",
     "size": 158951817,
     "digest": "sha256:79aa5dd7adb02d93c1c85ff54e5fc6944f02358322bee83e7b19764bd5b1d5d7",
-    "download_count": 1502,
+    "download_count": 1503,
     "created_at": "2025-12-19T17:19:01Z",
     "updated_at": "2025-12-19T17:19:23Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta2/Godot_v4.6-beta2_macos.universal.zip"
@@ -384,7 +384,7 @@
     "state": "uploaded",
     "size": 47324598,
     "digest": "sha256:52d930902645ac72e2a21c3db0410aa0fbc60492e2e0d9c53bdf931298e63402",
-    "download_count": 8,
+    "download_count": 9,
     "created_at": "2025-12-19T17:19:24Z",
     "updated_at": "2025-12-19T17:19:31Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-beta2/Godot_v4.6-beta2_web_editor.zip"
