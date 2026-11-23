@@ -39,7 +39,7 @@
     "state": "uploaded",
     "size": 101327040,
     "digest": "sha256:2da7b601394d128abdd61c368e792ca1eef9782cae5dbc3d46c308996d617b5a",
-    "download_count": 176,
+    "download_count": 179,
     "created_at": "2025-09-30T15:19:01Z",
     "updated_at": "2025-09-30T15:19:15Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/godot-lib.4.6.dev1.mono.template_release.aar"
@@ -54,7 +54,7 @@
     "state": "uploaded",
     "size": 100969554,
     "digest": "sha256:2095bacb2168e91881b3a1c7e0be9e61933e25b8f8b7d11b6b139c41df623b59",
-    "download_count": 406,
+    "download_count": 409,
     "created_at": "2025-09-30T15:05:59Z",
     "updated_at": "2025-09-30T15:06:15Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/godot-lib.4.6.dev1.template_release.aar"
@@ -444,7 +444,7 @@
     "state": "uploaded",
     "size": 4849,
     "digest": "sha256:27c0d2e715deabfd275e801ca0df2802f821c44450015536fc6ab7a73274583b",
-    "download_count": 723,
+    "download_count": 725,
     "created_at": "2025-09-30T15:24:20Z",
     "updated_at": "2025-09-30T15:24:20Z",
     "browser_download_url": "https://github.com/godotengine/godot-builds/releases/download/4.6-dev1/SHA512-SUMS.txt"
